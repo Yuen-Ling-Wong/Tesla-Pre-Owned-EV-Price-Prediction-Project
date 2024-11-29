@@ -1,16 +1,14 @@
 import streamlit as st
 import pandas as pd
 
-def save_submission(email, message):
-    # Create a DataFrame and append the new submission
-    df = pd.DataFrame({"Email": [email], "Message": [message]})
-    df.to_csv("submissions.csv", mode="a", header=False, index=False)
-
-
-
+@st.cache_data
 def show_contact_form():
     
     st.header("✉️ Hello! Contact Us:")
+
+    st.write("I hope you're enjoying this app.")
+             
+    st.write(" We'd love to hear from you! Please fill out the form below:")
     
     contact_new_form ="""
     <form action="https://formsubmit.co/wyl_flora@hotmail.com" method="POST">
