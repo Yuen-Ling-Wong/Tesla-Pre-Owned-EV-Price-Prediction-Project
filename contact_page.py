@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 
-@st.cache_data
 def show_contact_form():
     
     st.header("✉️ Hello! Contact Us:")
