@@ -1,0 +1,858 @@
+title,price,drivetrain,exterior_color,model,year,trim,fuel_consume(L/100km),region,province,battery_charge_time(hr),battery_range(km),body_type,mileage(km),front_legroom(mm),cargo_volume(L)
+2022 Tesla Model 3 RWD,34999,Rear-Wheel Drive,Black,Model 3,2022.0,RWD,1.9,Truro,NS,10.0,430.0,Sedan,51060,1085.0,648.0
+2017 Tesla Model X 100D AWD,49980,All-Wheel Drive,White(/Pearl White Multi-Coat),Model X,2017.0,100D AWD,2.655,North Vancouver,BC,12.0,475.0,SUV/ Crossover,136200,1046.0,736.0
+2020 Tesla Model 3,31690,unknown,White(/Pearl White Multi-Coat),Model 3,2020.0,unknown,1.9,Richmond,BC,10.0,430.0,Sedan,41722,1085.0,424.0
+2019 Tesla Model 3 Standard Plus RWD,26888,Rear-Wheel Drive,Black,Model 3,2019.0,Standard Plus RWD,1.9,North York,ON,10.0,386.0,Sedan,42000,1085.0,424.0
+2022 Tesla Model 3 Long Range AWD,39990,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2022.0,Long Range AWD,1.9,Calgary,AB,10.0,538.0,Sedan,50870,1085.0,648.0
+2023 Tesla Model 3 Long Range AWD,41995,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2023.0,Long Range AWD,1.9,Etobicoke,ON,11.5,576.0,Sedan,27000,1085.0,648.0
+2015 Tesla Model S 85D AWD,23995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model S,2015.0,85D AWD,2.365,Toronto,ON,12.0,435.0,Sedan,130000,1085.0,894.0
+2020 Tesla Model 3 Long Range AWD,32800,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2020.0,Long Range AWD,1.945,Concord,ON,10.0,518.0,Sedan,48000,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,29555,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Richmond,BC,10.0,402.0,Sedan,69838,1085.0,424.0
+2023 Tesla Model 3 Long Range AWD,42880,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2023.0,Long Range AWD,1.9,Concord,ON,11.5,576.0,Sedan,26000,1085.0,424.0
+2023 Tesla Model Y RWD,40900,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2023.0,RWD,1.945,Concord,ON,9.4,418.0,SUV/ Crossover,24900,1064.0,971.0
+2016 Tesla Model X 90D AWD,37895,All-Wheel Drive,Blue(/Deep Blue Metallic),Model X,2016.0,90D AWD,2.555,Milton,ON,12.0,414.0,SUV/ Crossover,129710,1046.0,736.0
+2019 Tesla Model 3 Long Range RWD,25729,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2019.0,Long Range RWD,1.9,Drummondville,QC,10.0,499.0,Sedan,98700,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,34900,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Coquitlam,BC,10.0,430.0,Sedan,23317,1085.0,424.0
+2023 Tesla Model Y RWD,40996,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2023.0,RWD,1.945,Concord,ON,9.4,418.0,SUV/ Crossover,24500,1064.0,971.0
+2023 Tesla Model 3 Long Range AWD,40888,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2023.0,Long Range AWD,1.9,Concord,ON,11.5,576.0,Sedan,30136,1085.0,648.0
+2020 Tesla Model 3 Performance AWD,36880,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2020.0,Performance AWD,1.945,Concord,ON,10.0,481.0,Sedan,60716,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,26888,Rear-Wheel Drive,Red,Model 3,2020.0,Standard Range Plus RWD,1.9,North York,ON,10.0,402.0,Sedan,72000,1085.0,424.0
+2019 Tesla Model 3 Performance AWD,29995,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2019.0,Performance AWD,1.9,Abbotsford,BC,10.0,499.0,Sedan,95648,1085.0,424.0
+2021 Tesla Model Y Long Range AWD,37480,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2021.0,Long Range AWD,1.945,Concord,ON,10.0,509.0,SUV/ Crossover,93469,1062.0,1925.0
+2020 Tesla Model 3 Standard Range AWD,23990,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range AWD,1.9,Concord,ON,10.0,354.0,Sedan,94360,1085.0,424.0
+2022 Tesla Model 3 Performance AWD,43880,All-Wheel Drive,Black,Model 3,2022.0,Performance AWD,2.09,Concord,ON,10.0,507.0,Sedan,46600,1085.0,424.0
+2016 Tesla Model X P90D AWD,50450,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model X,2016.0,P90D AWD,2.6,Richmond,BC,12.0,402.0,SUV/ Crossover,81000,1046.0,736.0
+2014 Tesla Model S P85 RWD,23995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model S,2014.0,P85 RWD,2.655,Oakville,ON,12.0,407.0,Sedan,115000,1085.0,894.0
+2021 Tesla Model Y Standard Range RWD,42777,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2021.0,Standard Range RWD,1.945,Surrey,BC,10.0,393.0,SUV/ Crossover,35001,1062.0,1925.0
+2020 Tesla Model 3 Standard Range Plus RWD,28800,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Kitchener,ON,10.0,402.0,Sedan,53936,1085.0,424.0
+2021 Tesla Model 3 Long Range AWD,35980,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Long Range AWD,1.9,Concord,ON,10.0,568.0,Sedan,47200,1085.0,424.0
+2018 Tesla Model 3 Long Range AWD,24498,All-Wheel Drive,Black,Model 3,2018.0,Long Range AWD,2.045,St-leonard,QC,10.0,499.0,Sedan,92107,1085.0,424.0
+2020 Tesla Model 3 Standard Range AWD,24995,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2020.0,Standard Range AWD,1.9,Concord,ON,10.0,354.0,Sedan,78966,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,24988,Rear-Wheel Drive,Red,Model 3,2020.0,Standard Range Plus RWD,1.9,Oakville,ON,10.0,402.0,Sedan,100000,1085.0,424.0
+2022 Tesla Model X Plaid AWD,120888,All-Wheel Drive,White(/Pearl White Multi-Coat),Model X,2022.0,Plaid AWD,2.39,Vaughan,ON,12.0,504.0,SUV/ Crossover,9399,1045.0,736.0
+2021 Tesla Model 3 Standard Range Plus RWD,29880,Rear-Wheel Drive,Black,Model 3,2021.0,Standard Range Plus RWD,1.9,Concord,ON,10.0,430.0,Sedan,45330,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,28990,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Bedford,NS,10.0,430.0,Sedan,72102,1085.0,424.0
+2021 Tesla Model Y Long Range AWD,40980,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2021.0,Long Range AWD,1.945,Concord,ON,10.0,509.0,SUV/ Crossover,63588,1062.0,1925.0
+2020 Tesla Model 3 Standard Range Plus RWD,23800,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Concord,ON,10.0,402.0,Sedan,115000,1085.0,424.0
+2023 Tesla Model 3 Long Range AWD,41888,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2023.0,Long Range AWD,1.9,Concord,ON,11.5,576.0,Sedan,20659,1085.0,648.0
+2020 Tesla Model 3 Standard Range AWD,24995,All-Wheel Drive,Black,Model 3,2020.0,Standard Range AWD,1.9,Concord,ON,10.0,354.0,Sedan,79400,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,28800,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2020.0,Standard Range Plus RWD,1.9,Richmond,BC,10.0,402.0,Sedan,78000,1085.0,424.0
+2019 Tesla Model 3 Standard Plus RWD,17880,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2019.0,Standard Plus RWD,1.9,Concord,ON,10.0,386.0,Sedan,190000,1085.0,424.0
+2021 Tesla Model Y Long Range AWD,46450,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2021.0,Long Range AWD,1.945,Chilliwack,BC,10.0,509.0,SUV/ Crossover,41372,1062.0,1925.0
+2020 Tesla Model 3 Standard Range AWD,24995,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2020.0,Standard Range AWD,1.9,Concord,ON,10.0,354.0,Sedan,79889,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,27880,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Concord,ON,10.0,430.0,Sedan,71700,1085.0,424.0
+2022 Tesla Model 3 RWD,28800,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,Concord,ON,10.0,430.0,Sedan,92380,1085.0,648.0
+2021 Tesla Model S Plaid AWD,88000,All-Wheel Drive,White(/Pearl White Multi-Coat),Model S,2021.0,Plaid AWD,2.3,Vancouver,BC,15.0,628.0,Sedan,39650,1085.0,744.0
+2019 Tesla Model 3 Standard Plus RWD,25888,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2019.0,Standard Plus RWD,1.9,North York,ON,10.0,386.0,Sedan,63000,1085.0,424.0
+2019 Tesla Model 3 Long Range AWD,29980,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2019.0,Long Range AWD,2.045,Montréal,QC,10.0,499.0,Sedan,63856,1085.0,424.0
+2022 Tesla Model Y Long Range AWD,52800,All-Wheel Drive,Black,Model Y,2022.0,Long Range AWD,1.945,Burnaby,BC,10.0,531.0,SUV/ Crossover,29381,1062.0,971.0
+2020 Tesla Model 3 Standard Range Plus RWD,30800,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Kitchener,ON,10.0,402.0,Sedan,32837,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,25900,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2021.0,Standard Range Plus RWD,1.9,Concord,ON,10.0,430.0,Sedan,97700,1085.0,424.0
+2017 Tesla Model X,53990,unknown,Gray(/Dark Grey/Stealth Grey/Charcoal),Model X,2017.0,unknown,2.555,Calgary,AB,12.0,475.0,SUV/ Crossover,53500,1046.0,736.0
+2020 Tesla Model 3 Long Range AWD,34490,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Long Range AWD,1.945,Concord,ON,10.0,518.0,Sedan,32453,1085.0,424.0
+2023 Tesla Model 3 Long Range AWD,40999,All-Wheel Drive,Black,Model 3,2023.0,Long Range AWD,1.9,Calgary,AB,11.5,576.0,Sedan,71456,1085.0,648.0
+2019 Tesla Model 3 Long Range AWD,27995,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2019.0,Long Range AWD,1.9,Toronto,ON,10.0,499.0,Sedan,99025,1085.0,424.0
+2022 Tesla Model 3 RWD,30900,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,Concord,ON,10.0,430.0,Sedan,65400,1085.0,648.0
+2021 Tesla Model Y Performance AWD,47998,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2021.0,Performance AWD,2.09,Surrey,BC,10.0,507.0,SUV/ Crossover,77203,1062.0,1925.0
+2016 Tesla Model X 75D AWD,43888,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model X,2016.0,75D AWD,2.555,Surrey,BC,12.0,383.0,SUV/ Crossover,114250,1046.0,736.0
+2023 Tesla Model 3 Long Range AWD,41988,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2023.0,Long Range AWD,1.9,Oakville,ON,11.5,576.0,Sedan,40000,1085.0,424.0
+2021 Tesla Model Y Long Range AWD,44998,All-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2021.0,Long Range AWD,1.945,Surrey,BC,10.0,509.0,SUV/ Crossover,62978,1062.0,1925.0
+2018 Tesla Model 3 Long Range RWD,28500,Rear-Wheel Drive,Red,Model 3,2018.0,Long Range RWD,1.9,Burnaby,BC,12.0,499.0,Sedan,106300,1085.0,424.0
+2021 Tesla Model S Plaid AWD,79999,All-Wheel Drive,Black,Model S,2021.0,Plaid AWD,2.345,Longueuil,QC,15.0,628.0,Sedan,57936,1085.0,744.0
+2018 Tesla Model X 100D AWD,50995,All-Wheel Drive,Black,Model X,2018.0,100D AWD,2.555,North York,ON,12.0,475.0,SUV/ Crossover,107223,1046.0,736.0
+2023 Tesla Model 3 RWD,38800,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2023.0,RWD,1.9,Richmond,BC,10.4,438.0,Sedan,30613,1085.0,648.0
+2022 Tesla Model 3 Long Range AWD,39990,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,Long Range AWD,1.9,Calgary,AB,10.0,538.0,Sedan,56821,1085.0,648.0
+2021 Tesla Model 3 Standard Range Plus RWD,29492,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Waterloo,ON,10.0,430.0,Sedan,71207,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,27900,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Richmond,BC,10.0,402.0,Sedan,99000,1085.0,424.0
+2022 Tesla Model Y Performance AWD,52995,All-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2022.0,Performance AWD,2.09,Kitchener,ON,10.0,488.0,SUV/ Crossover,31924,1062.0,971.0
+2023 Tesla Model Y Long Range AWD,54995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2023.0,Long Range AWD,1.945,Abbotsford,BC,11.5,531.0,SUV/ Crossover,17250,1062.0,971.0
+2021 Tesla Model Y Long Range AWD,45800,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2021.0,Long Range AWD,1.945,Concord,ON,10.0,509.0,SUV/ Crossover,22965,1063.0,971.0
+2020 Tesla Model 3 Standard Range AWD,19880,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range AWD,1.9,Concord,ON,10.0,354.0,Sedan,164688,1085.0,424.0
+2023 Tesla Model Y RWD,42995,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2023.0,RWD,1.945,Concord,ON,9.4,418.0,SUV/ Crossover,7600,1064.0,971.0
+2021 Tesla Model Y Long Range AWD,38900,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2021.0,Long Range AWD,1.945,Concord,ON,10.0,509.0,SUV/ Crossover,85000,1062.0,1925.0
+2019 Tesla Model 3 Mid Range RWD,27995,Rear-Wheel Drive,Silver,Model 3,2019.0,Mid Range RWD,1.945,Burnaby,BC,10.0,425.0,Sedan,109310,1085.0,424.0
+2020 Tesla Model 3 Long Range AWD,28990,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Long Range AWD,1.945,Concord,ON,10.0,518.0,Sedan,97800,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,24995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Toronto,ON,10.0,402.0,Sedan,90900,1085.0,424.0
+2021 Tesla Model Y Long Range AWD,36980,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2021.0,Long Range AWD,1.945,Concord,ON,10.0,509.0,SUV/ Crossover,108886,1062.0,1925.0
+2019 Tesla Model 3 Standard RWD,23990,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2019.0,Standard RWD,1.9,Concord,ON,10.0,354.0,Sedan,88766,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,34800,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Richmond,BC,10.0,430.0,Sedan,38600,1085.0,424.0
+2020 Tesla Model X Performance AWD,76888,All-Wheel Drive,White(/Pearl White Multi-Coat),Model X,2020.0,Performance AWD,2.6,Burlington,ON,12.0,491.0,SUV/ Crossover,65200,1046.0,543.0
+2021 Tesla Model Y Long Range AWD,37480,All-Wheel Drive,Black,Model Y,2021.0,Long Range AWD,1.945,Concord,ON,10.0,509.0,SUV/ Crossover,98600,1063.0,971.0
+2019 Tesla Model 3 Standard Plus RWD,29995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2019.0,Standard Plus RWD,1.9,Abbotsford,BC,10.0,386.0,Sedan,69000,1085.0,424.0
+2023 Tesla Model 3 RWD,34880,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2023.0,RWD,1.9,Concord,ON,10.4,438.0,Sedan,50688,1085.0,648.0
+2023 Tesla Model 3 Long Range AWD,43979,All-Wheel Drive,Black,Model 3,2023.0,Long Range AWD,1.9,Gatineau,QC,11.5,576.0,Sedan,37800,1085.0,648.0
+2020 Tesla Model Y Performance AWD,45998,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2020.0,Performance AWD,1.99,St-leonard,QC,10.0,507.0,SUV/ Crossover,24215,1062.0,1925.0
+2022 Tesla Model 3 Long Range AWD,39888,All-Wheel Drive,Red,Model 3,2022.0,Long Range AWD,1.9,Concord,ON,10.0,538.0,Sedan,33495,1085.0,648.0
+2020 Tesla Model 3 Standard Range Plus RWD,27995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Lévis,QC,10.0,402.0,Sedan,70535,1085.0,424.0
+2022 Tesla Model 3 Performance AWD,45489,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2022.0,Performance AWD,2.09,Drummondville,QC,10.0,507.0,Sedan,41229,1085.0,648.0
+2018 Tesla Model 3 Standard RWD,26995,Rear-Wheel Drive,Black,Model 3,2018.0,Standard RWD,1.945,Waterloo,ON,12.0,354.0,Sedan,76920,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,27490,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Bedford,NS,10.0,402.0,Sedan,81680,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,26880,Rear-Wheel Drive,Black,Model 3,2021.0,Standard Range Plus RWD,1.9,Concord,ON,10.0,430.0,Sedan,89000,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,25988,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Oakville,ON,10.0,402.0,Sedan,93000,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,28480,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2021.0,Standard Range Plus RWD,1.9,Concord,ON,10.0,430.0,Sedan,68857,1085.0,424.0
+2019 Tesla Model 3 Standard Plus RWD,23995,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2019.0,Standard Plus RWD,1.9,Toronto,ON,10.0,386.0,Sedan,98000,1085.0,424.0
+2021 Tesla Model Y Long Range AWD,39887,All-Wheel Drive,Black,Model Y,2021.0,Long Range AWD,1.945,Concord,ON,10.0,509.0,SUV/ Crossover,77966,1062.0,1925.0
+2022 Tesla Model 3 Long Range AWD,42995,All-Wheel Drive,Red,Model 3,2022.0,Long Range AWD,1.9,St. Albert,AB,10.0,538.0,Sedan,50451,1085.0,648.0
+2023 Tesla Model Y Long Range AWD,48995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2023.0,Long Range AWD,1.945,Blainville,QC,11.5,531.0,SUV/ Crossover,41201,1062.0,971.0
+2023 Tesla Model 3 RWD,35800,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2023.0,RWD,1.9,Concord,ON,10.4,438.0,Sedan,23586,1085.0,648.0
+2020 Tesla Model 3 Standard Range Plus RWD,21795,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Newmarket,ON,10.0,402.0,Sedan,137000,1085.0,424.0
+2021 Tesla Model Y Long Range AWD,48995,All-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2021.0,Long Range AWD,1.945,Penticton,BC,10.0,509.0,SUV/ Crossover,19061,1062.0,1925.0
+2021 Tesla Model 3 Standard Range Plus RWD,34998,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Burnaby,BC,10.0,430.0,Sedan,31516,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,28900,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Toronto,ON,10.0,430.0,Sedan,49699,1085.0,424.0
+2016 Tesla Model X P90D AWD,49888,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model X,2016.0,P90D AWD,2.6,Vancouver,BC,12.0,402.0,SUV/ Crossover,85049,1045.0,736.0
+2022 Tesla Model Y Performance AWD,52520,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2022.0,Performance AWD,2.09,Barrie,ON,10.0,488.0,SUV/ Crossover,39253,1062.0,971.0
+2020 Tesla Model 3 Long Range AWD,34490,All-Wheel Drive,Red,Model 3,2020.0,Long Range AWD,1.945,Concord,ON,10.0,518.0,Sedan,35966,1085.0,424.0
+2020 Tesla Model 3 Long Range AWD,23800,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2020.0,Long Range AWD,1.945,Concord,ON,10.0,518.0,Sedan,160426,1085.0,424.0
+2021 Tesla Model 3 Long Range AWD,33990,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Long Range AWD,1.9,Concord,ON,10.0,568.0,Sedan,72866,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,28480,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2021.0,Standard Range Plus RWD,1.9,Concord,ON,10.0,430.0,Sedan,69860,1085.0,424.0
+2022 Tesla Model 3 RWD,33998,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,Kelowna,BC,10.0,430.0,Sedan,69000,1085.0,648.0
+2020 Tesla Model 3 Long Range AWD,33480,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2020.0,Long Range AWD,1.945,Concord,ON,10.0,518.0,Sedan,48000,1085.0,424.0
+2017 Tesla Model S 100D AWD,46999,All-Wheel Drive,Red,Model S,2017.0,100D AWD,2.3,Richmond,BC,12.0,539.0,Sedan,64255,1085.0,804.0
+2021 Tesla Model 3 Standard Range Plus RWD,28480,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Concord,ON,10.0,430.0,Sedan,70000,1085.0,424.0
+2023 Tesla Model Y Performance AWD,52785,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2023.0,Performance AWD,1.945,Brossard,QC,11.8,488.0,SUV/ Crossover,33350,1062.0,481.0
+2021 Tesla Model 3 Performance AWD,45784,All-Wheel Drive,Black,Model 3,2021.0,Performance AWD,2.09,Winnipeg,MB,10.0,507.0,Sedan,40000,1085.0,424.0
+2021 Tesla Model Y Long Range AWD,41880,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2021.0,Long Range AWD,1.945,Toronto,ON,10.0,509.0,SUV/ Crossover,57000,1062.0,1925.0
+2022 Tesla Model 3 Long Range AWD,39999,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2022.0,Long Range AWD,1.9,Gatineau,QC,10.0,538.0,Sedan,55234,1085.0,648.0
+2023 Tesla Model Y Performance AWD,54999,All-Wheel Drive,Black,Model Y,2023.0,Performance AWD,2.09,Saint-Constant,QC,11.8,488.0,SUV/ Crossover,13681,1062.0,481.0
+2020 Tesla Model 3 Long Range AWD,33480,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2020.0,Long Range AWD,1.945,Concord,ON,10.0,518.0,Sedan,48300,1085.0,424.0
+2016 Tesla Model X P90D AWD,45995,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model X,2016.0,P90D AWD,2.6,Milton,ON,12.0,402.0,SUV/ Crossover,109206,1046.0,736.0
+2017 Tesla Model S 75D AWD,34979,All-Wheel Drive,White(/Pearl White Multi-Coat),Model S,2017.0,75D AWD,2.255,North York,ON,12.0,417.0,Sedan,91345,1085.0,894.0
+2023 Tesla Model 3 RWD,35800,Rear-Wheel Drive,Red,Model 3,2023.0,RWD,1.9,Kitchener,ON,10.4,438.0,Sedan,42627,1085.0,648.0
+2022 Tesla Model 3 RWD,32995,Rear-Wheel Drive,Black,Model 3,2022.0,RWD,1.9,Blainville,QC,10.0,430.0,Sedan,33242,1085.0,648.0
+2022 Tesla Model Y Performance AWD,45795,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2022.0,Performance AWD,2.09,Milton,ON,10.0,488.0,SUV/ Crossover,88351,1062.0,971.0
+2021 Tesla Model Y Long Range AWD,36980,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2021.0,Long Range AWD,1.945,Concord,ON,10.0,509.0,SUV/ Crossover,111800,1062.0,1925.0
+2019 Tesla Model 3 Standard Plus RWD,27988,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2019.0,Standard Plus RWD,1.9,Oakville,ON,10.0,386.0,Sedan,41000,1085.0,424.0
+2014 Tesla Model S P85 RWD,25998,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model S,2014.0,P85 RWD,2.655,Surrey,BC,12.0,407.0,Sedan,144885,1085.0,894.0
+2020 Tesla Model Y Long Range AWD,38910,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2020.0,Long Range AWD,1.99,Woodbridge,ON,10.0,509.0,SUV/ Crossover,67474,1062.0,1925.0
+2019 Tesla Model 3 Performance AWD,27990,All-Wheel Drive,Black,Model 3,2019.0,Performance AWD,2.045,Concord,ON,10.0,499.0,Sedan,88966,1085.0,424.0
+2020 Tesla Model Y Performance AWD,48888,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2020.0,Performance AWD,1.99,Abbotsford,BC,10.0,507.0,SUV/ Crossover,39721,1062.0,1925.0
+2023 Tesla Model 3 Long Range AWD,41999,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2023.0,Long Range AWD,1.9,Saint-Constant,QC,11.5,576.0,Sedan,27064,1085.0,648.0
+2024 Tesla Model 3,45682,unknown,Black,Model 3,2024.0,unknown,1.9,Abbotsford,BC,10.0,430.0,Sedan,30158,1085.0,424.0
+2023 Tesla Model 3 RWD,36995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2023.0,RWD,1.9,Quebec,QC,10.4,438.0,Sedan,20928,1085.0,648.0
+2021 Tesla Model 3 Standard Range Plus RWD,31480,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2021.0,Standard Range Plus RWD,1.9,Concord,ON,10.0,430.0,Sedan,33600,1085.0,424.0
+2023 Tesla Model 3 RWD,35800,Rear-Wheel Drive,Black,Model 3,2023.0,RWD,1.9,Concord,ON,10.4,438.0,Sedan,25800,1085.0,648.0
+2023 Tesla Model 3 Long Range AWD,47500,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2023.0,Long Range AWD,1.9,Port Moody,BC,11.5,576.0,Sedan,20169,1085.0,648.0
+2021 Tesla Model Y Long Range AWD,39998,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2021.0,Long Range AWD,1.945,Surrey,BC,10.0,509.0,SUV/ Crossover,107447,1062.0,1925.0
+2021 Tesla Model 3 Standard Range Plus RWD,25880,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Concord,ON,10.0,430.0,Sedan,104866,1085.0,424.0
+2023 Tesla Model Y RWD,39695,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2023.0,RWD,1.945,Blainville,QC,9.4,418.0,SUV/ Crossover,38002,1064.0,971.0
+2023 Tesla Model 3 Long Range AWD,46707,All-Wheel Drive,Silver,Model 3,2023.0,Long Range AWD,1.9,Surrey,BC,11.5,576.0,Sedan,27175,1085.0,648.0
+2021 Tesla Model Y Long Range AWD,34880,All-Wheel Drive,Black,Model Y,2021.0,Long Range AWD,1.945,Concord,ON,10.0,509.0,SUV/ Crossover,125500,1062.0,1925.0
+2021 Tesla Model 3 Standard Range Plus RWD,31995,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2021.0,Standard Range Plus RWD,1.9,Richmond,BC,10.0,430.0,Sedan,72441,1085.0,424.0
+2021 Tesla Model Y Long Range AWD,35995,All-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2021.0,Long Range AWD,1.945,Toronto,ON,10.0,509.0,SUV/ Crossover,118150,1062.0,1925.0
+2020 Tesla Model 3 Standard Range AWD,23990,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range AWD,1.9,Concord,ON,10.0,354.0,Sedan,91600,1085.0,424.0
+2022 Tesla Model S AWD,72990,All-Wheel Drive,Black,Model S,2022.0,AWD,2.3,Mississauga,ON,15.0,652.0,Sedan,53384,1077.0,798.0
+2022 Tesla Model Y Performance AWD,49498,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2022.0,Performance AWD,2.09,Mississauga,ON,10.0,488.0,SUV/ Crossover,52500,1062.0,971.0
+2020 Tesla Model 3 Standard Range AWD,21880,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range AWD,1.9,Concord,ON,10.0,354.0,Sedan,136962,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,27995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Lévis,QC,10.0,402.0,Sedan,74765,1085.0,424.0
+2022 Tesla Model 3 RWD,33800,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,St.-Hubert,QC,10.0,430.0,Sedan,24257,1085.0,648.0
+2016 Tesla Model X 90D AWD,44995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model X,2016.0,90D AWD,2.555,Ottawa,ON,12.0,414.0,SUV/ Crossover,64950,1046.0,736.0
+2021 Tesla Model 3 Standard Range Plus RWD,31795,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Nanaimo,BC,10.0,430.0,Sedan,79181,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,23790,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2020.0,Standard Range Plus RWD,1.9,Oakville,ON,10.0,402.0,Sedan,111056,1085.0,424.0
+2020 Tesla Model X Long Range AWD,69995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model X,2020.0,Long Range AWD,2.445,Bradford,ON,12.0,528.0,SUV/ Crossover,71000,1046.0,543.0
+2022 Tesla Model 3 RWD,28489,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,Drummondville,QC,10.0,430.0,Sedan,109000,1085.0,648.0
+2023 Tesla Model 3 RWD,34885,Rear-Wheel Drive,Black,Model 3,2023.0,RWD,1.9,Concord,ON,10.4,438.0,Sedan,37800,1085.0,648.0
+2021 Tesla Model S Long Range Plus AWD,59999,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model S,2021.0,Long Range Plus AWD,1.945,Laval,QC,12.0,629.0,Sedan,52402,1085.0,744.0
+2021 Tesla Model Y Long Range AWD,36980,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2021.0,Long Range AWD,1.945,Concord,ON,10.0,509.0,SUV/ Crossover,113800,1063.0,971.0
+2022 Tesla Model Y Long Range AWD,45898,All-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2022.0,Long Range AWD,1.945,Vaughan,ON,10.0,531.0,SUV/ Crossover,44573,1062.0,971.0
+2020 Tesla Model 3 Standard Range AWD,24890,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range AWD,1.9,Concord,ON,10.0,354.0,Sedan,88690,1085.0,424.0
+2021 Tesla Model 3 Performance AWD,38800,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2021.0,Performance AWD,2.09,Concord,ON,10.0,507.0,Sedan,73000,1085.0,424.0
+2021 Tesla Model Y Long Range AWD,48499,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2021.0,Long Range AWD,1.945,Vancouver,BC,10.0,509.0,SUV/ Crossover,29213,1062.0,1925.0
+2020 Tesla Model 3 Standard Range AWD,24890,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range AWD,1.9,Concord,ON,10.0,354.0,Sedan,77860,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,30800,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Richmond,BC,10.0,402.0,Sedan,64000,1085.0,424.0
+2023 Tesla Model Y Performance AWD,54988,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2023.0,Performance AWD,2.09,Toronto,ON,11.8,488.0,SUV/ Crossover,21270,1062.0,481.0
+2018 Tesla Model X 100D AWD,61995,All-Wheel Drive,Black,Model X,2018.0,100D AWD,2.655,Abbotsford,BC,12.0,475.0,SUV/ Crossover,58000,1046.0,736.0
+2022 Tesla Model 3 Long Range AWD,37888,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,Long Range AWD,1.9,Concord,ON,10.0,538.0,Sedan,55569,1085.0,648.0
+2023 Tesla Model Y Performance AWD,51999,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2023.0,Performance AWD,2.09,L'Île-Perrot,QC,11.8,488.0,SUV/ Crossover,43076,1062.0,481.0
+2020 Tesla Model 3 Long Range AWD,22488,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2020.0,Long Range AWD,1.945,Toronto,ON,10.0,518.0,Sedan,175200,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,29897,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2020.0,Standard Range Plus RWD,1.9,Saint-Eustache,QC,10.0,402.0,Sedan,33265,1085.0,424.0
+2023 Tesla Model 3 Long Range AWD,42995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2023.0,Long Range AWD,1.9,Mississauga,ON,11.5,576.0,Sedan,32696,1085.0,648.0
+2016 Tesla Model X 90D AWD,47888,All-Wheel Drive,Blue(/Deep Blue Metallic),Model X,2016.0,90D AWD,2.555,North York,ON,12.0,414.0,SUV/ Crossover,79000,1046.0,736.0
+2023 Tesla Model Y Long Range AWD,55537,All-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2023.0,Long Range AWD,1.945,Surrey,BC,11.5,531.0,SUV/ Crossover,5803,1062.0,971.0
+2021 Tesla Model Y Long Range AWD,45400,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2021.0,Long Range AWD,1.945,Toronto,ON,10.0,509.0,SUV/ Crossover,33756,1062.0,1925.0
+2020 Tesla Model 3 Long Range AWD,30880,All-Wheel Drive,Black,Model 3,2020.0,Long Range AWD,1.945,Concord,ON,10.0,518.0,Sedan,81366,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,28998,Rear-Wheel Drive,Black,Model 3,2020.0,Standard Range Plus RWD,1.9,Abbotsford,BC,10.0,402.0,Sedan,94140,1085.0,424.0
+2023 Tesla Model X AWD,97500,All-Wheel Drive,Red,Model X,2023.0,AWD,2.29,Sidney,BC,14.0,560.0,SUV/ Crossover,6000,1044.0,1231.0
+2021 Tesla Model 3 Standard Range Plus RWD,21880,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Concord,ON,10.0,430.0,Sedan,157866,1085.0,424.0
+2019 Tesla Model 3 Standard Plus RWD,25988,Rear-Wheel Drive,Black,Model 3,2019.0,Standard Plus RWD,1.9,Oakville,ON,10.0,386.0,Sedan,75000,1085.0,424.0
+2023 Tesla Model 3 RWD,31995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2023.0,RWD,1.9,North York,ON,10.4,438.0,Sedan,67000,1085.0,648.0
+2021 Tesla Model Y Standard Range RWD,41912,Rear-Wheel Drive,Silver,Model Y,2021.0,Standard Range RWD,1.945,Abbotsford,BC,10.0,393.0,SUV/ Crossover,55536,1062.0,1925.0
+2021 Tesla Model 3 Standard Range Plus RWD,27888,Rear-Wheel Drive,Black,Model 3,2021.0,Standard Range Plus RWD,1.9,North York,ON,10.0,430.0,Sedan,79000,1085.0,424.0
+2016 Tesla Model X 75D AWD,39800,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model X,2016.0,75D AWD,2.555,Richmond,BC,12.0,383.0,SUV/ Crossover,122000,1046.0,736.0
+2022 Tesla Model Y Long Range AWD,42990,All-Wheel Drive,Black,Model Y,2022.0,Long Range AWD,1.945,Calgary,AB,10.0,531.0,SUV/ Crossover,67786,1062.0,971.0
+2022 Tesla Model 3 Long Range AWD,41499,All-Wheel Drive,Red,Model 3,2022.0,Long Range AWD,1.9,Laval,QC,10.0,538.0,Sedan,20236,1085.0,648.0
+2021 Tesla Model 3 Performance AWD,41880,All-Wheel Drive,Black,Model 3,2021.0,Performance AWD,2.09,Concord,ON,10.0,507.0,Sedan,45600,1085.0,424.0
+2019 Tesla Model 3 Long Range AWD,31800,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2019.0,Long Range AWD,2.045,Toronto,ON,10.0,499.0,Sedan,58000,1085.0,424.0
+2023 Tesla Model S,86990,All-Wheel Drive,Black,Model S,2023.0,AWD,2.3,Mississauga,ON,12.0,435.0,Sedan,25741,1085.0,894.0
+2016 Tesla Model X 75D AWD,37910,All-Wheel Drive,Blue(/Deep Blue Metallic),Model X,2016.0,75D AWD,2.555,Woodbridge,ON,12.0,383.0,SUV/ Crossover,138376,1046.0,736.0
+2023 Tesla Model 3 RWD,37500,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2023.0,RWD,1.9,Mississauga,ON,10.4,438.0,Sedan,20964,1085.0,648.0
+2023 Tesla Model 3 RWD,33295,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2023.0,RWD,1.9,Saint-jerome,QC,10.4,438.0,Sedan,57931,1085.0,648.0
+2020 Tesla Model 3 Performance AWD,41888,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2020.0,Performance AWD,1.945,Coquitlam,BC,10.0,481.0,Sedan,71938,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,29800,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Langley Twp,BC,10.0,402.0,Sedan,93250,1085.0,424.0
+2022 Tesla Model 3 RWD,27989,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,Saint-Basile-Le-Grand,QC,10.0,430.0,Sedan,101638,1085.0,648.0
+2020 Tesla Model 3 Standard Range Plus RWD,33888,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Nanaimo,BC,10.0,402.0,Sedan,51177,1085.0,424.0
+2020 Tesla Model 3 Standard Range AWD,20990,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range AWD,1.9,Concord,ON,10.0,354.0,Sedan,153486,1085.0,424.0
+2024 Tesla Model Y RWD,47995,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2024.0,RWD,1.945,Quebec,QC,9.4,418.0,SUV/ Crossover,12046,1062.0,971.0
+2022 Tesla Model 3 RWD,34950,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,St.-Hubert,QC,10.0,430.0,Sedan,11929,1085.0,648.0
+2022 Tesla Model 3 Performance AWD,44988,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,Performance AWD,2.09,Mississauga,ON,10.0,507.0,Sedan,46422,1085.0,648.0
+2020 Tesla Model 3 Standard Range Plus RWD,31888,Rear-Wheel Drive,Red,Model 3,2020.0,Standard Range Plus RWD,1.9,Maple Ridge,BC,10.0,402.0,Sedan,67000,1085.0,424.0
+2022 Tesla Model 3 RWD,37888,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2022.0,RWD,1.9,Burnaby,BC,10.0,430.0,Sedan,28350,1085.0,648.0
+2015 Tesla Model S P85D AWD,22888,All-Wheel Drive,Blue(/Deep Blue Metallic),Model S,2015.0,P85D AWD,2.3,Burlington,ON,12.0,407.0,Sedan,153501,1085.0,894.0
+2020 Tesla Model Y Performance AWD,39999,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2020.0,Performance AWD,1.99,Concord,ON,10.0,507.0,SUV/ Crossover,89785,1062.0,1925.0
+2022 Tesla Model 3 RWD,36990,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,Langley,BC,10.0,430.0,Sedan,37791,1085.0,648.0
+2020 Tesla Model 3 Standard Range AWD,24890,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range AWD,1.9,Concord,ON,10.0,354.0,Sedan,79886,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,27900,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Richmond Hill,ON,10.0,402.0,Sedan,76512,1085.0,424.0
+2022 Tesla Model Y Long Range AWD,43889,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2022.0,Long Range AWD,1.945,Concord,ON,10.0,531.0,SUV/ Crossover,66800,1062.0,971.0
+2022 Tesla Model Y Performance AWD,45886,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2022.0,Performance AWD,2.09,Concord,ON,10.0,488.0,SUV/ Crossover,84866,1062.0,971.0
+2020 Tesla Model Y Long Range AWD,32995,All-Wheel Drive,Black,Model Y,2020.0,Long Range AWD,1.99,Saint-Sulpice,QC,10.0,509.0,SUV/ Crossover,137234,1062.0,1925.0
+2020 Tesla Model 3 Long Range AWD,27990,All-Wheel Drive,Black,Model 3,2020.0,Long Range AWD,1.945,Concord,ON,10.0,518.0,Sedan,116750,1085.0,424.0
+2021 Tesla Model Y Long Range AWD,36980,All-Wheel Drive,Black,Model Y,2021.0,Long Range AWD,1.945,Concord,ON,10.0,509.0,SUV/ Crossover,110000,1062.0,1925.0
+2018 Tesla Model 3 Long Range AWD,25995,All-Wheel Drive,Black,Model 3,2018.0,Long Range AWD,2.045,Montreal,QC,10.0,499.0,Sedan,98000,1085.0,424.0
+2022 Tesla Model 3 RWD,31495,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2022.0,RWD,1.9,Mirabel,QC,10.0,430.0,Sedan,61999,1085.0,648.0
+2023 Tesla Model 3 Long Range AWD,36999,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2023.0,Long Range AWD,1.9,Maple,ON,11.5,576.0,Sedan,105050,1085.0,648.0
+2020 Tesla Model 3 Standard Range Plus RWD,26995,Rear-Wheel Drive,Black,Model 3,2020.0,Standard Range Plus RWD,1.9,Lévis,QC,10.0,402.0,Sedan,98458,1085.0,424.0
+2020 Tesla Model Y Performance AWD,45000,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2020.0,Performance AWD,1.945,Vancouver,BC,10.0,507.0,SUV/ Crossover,74450,1062.0,1925.0
+2022 Tesla Model Y Long Range AWD,43879,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2022.0,Long Range AWD,1.945,Oakville,ON,10.0,531.0,SUV/ Crossover,63787,1062.0,971.0
+2020 Tesla Model 3 Standard Range AWD,24890,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range AWD,1.9,Concord,ON,10.0,354.0,Sedan,80360,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,29933,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2021.0,Standard Range Plus RWD,1.9,Victoria,BC,10.0,430.0,Sedan,100173,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,33995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Vernon,BC,10.0,402.0,Sedan,41051,1085.0,424.0
+2021 Tesla Model Y Standard Range RWD,36800,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2021.0,Standard Range RWD,1.945,Richmond,BC,10.0,393.0,SUV/ Crossover,93000,1062.0,1925.0
+2019 Tesla Model 3 Standard Plus RWD,27997,Rear-Wheel Drive,Black,Model 3,2019.0,Standard Plus RWD,1.9,Coquitlam,BC,10.0,386.0,Sedan,110400,1085.0,424.0
+2020 Tesla Model 3 Standard Range AWD,26480,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2020.0,Standard Range AWD,1.9,Concord,ON,10.0,354.0,Sedan,65862,1085.0,424.0
+2022 Tesla Model 3 RWD,36500,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2022.0,RWD,1.9,Port Coquitlam,BC,10.0,430.0,Sedan,45000,1085.0,648.0
+2022 Tesla Model Y Performance AWD,48499,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2022.0,Performance AWD,2.09,Laval,QC,10.0,488.0,SUV/ Crossover,51505,1062.0,971.0
+2022 Tesla Model S Plaid AWD,119000,All-Wheel Drive,Black,Model S,2022.0,Plaid AWD,2.045,Montreal,QC,15.0,637.0,Sedan,5500,1077.0,798.0
+2022 Tesla Model 3 RWD,32995,Rear-Wheel Drive,Black,Model 3,2022.0,RWD,1.9,Mirabel,QC,10.0,430.0,Sedan,43094,1085.0,648.0
+2022 Tesla Model Y Long Range AWD,53500,All-Wheel Drive,Red,Model Y,2022.0,Long Range AWD,1.945,Coquitlam,BC,10.0,531.0,SUV/ Crossover,48000,1062.0,971.0
+2023 Tesla Model 3 Long Range AWD,43507,All-Wheel Drive,Black,Model 3,2023.0,Long Range AWD,1.9,Quebec,QC,11.5,576.0,Sedan,24000,1085.0,648.0
+2023 Tesla Model X,92871,unknown,Red,Model X,2023.0,unknown,2.555,Ottawa,ON,12.0,475.0,SUV/ Crossover,56000,1046.0,736.0
+2020 Tesla Model 3 Long Range AWD,32490,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2020.0,Long Range AWD,1.945,Concord,ON,10.0,518.0,Sedan,65388,1085.0,424.0
+2019 Tesla Model 3 Long Range AWD,29888,All-Wheel Drive,Black,Model 3,2019.0,Long Range AWD,2.045,Nobleton,ON,10.0,499.0,Sedan,78138,1085.0,424.0
+2018 Tesla Model 3 Long Range RWD,28996,Rear-Wheel Drive,Silver,Model 3,2018.0,Long Range RWD,1.9,Abbotsford,BC,12.0,499.0,Sedan,108252,1085.0,424.0
+2021 Tesla Model Y Long Range AWD,47999,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2021.0,Long Range AWD,1.945,Richmond,BC,10.0,509.0,SUV/ Crossover,35002,1062.0,1925.0
+2021 Tesla Model Y Long Range AWD,47999,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2023.0,Long Range AWD,1.945,Toronto,ON,11.5,531.0,SUV/ Crossover,57073,1062.0,971.0
+2020 Tesla Model 3 Performance AWD,43993,All-Wheel Drive,Red,Model 3,2020.0,Performance AWD,1.945,Abbotsford,BC,10.0,481.0,Sedan,37800,1085.0,424.0
+2018 Tesla Model 3 Standard RWD,30409,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2018.0,Standard RWD,1.945,Coquitlam,BC,12.0,354.0,Sedan,72303,1085.0,424.0
+2021 Tesla Model Y Long Range AWD,40910,All-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2021.0,Long Range AWD,1.945,Woodbridge,ON,10.0,509.0,SUV/ Crossover,74058,1062.0,1925.0
+2019 Tesla Model 3 Standard Plus RWD,25888,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2019.0,Standard Plus RWD,1.9,Oakville,ON,10.0,386.0,Sedan,80000,1085.0,424.0
+2021 Tesla Model Y Long Range AWD,37771,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2021.0,Long Range AWD,1.945,Quebec,QC,10.0,509.0,SUV/ Crossover,101988,1062.0,1925.0
+2021 Tesla Model Y Long Range AWD,39995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2021.0,Long Range AWD,1.945,Toronto,ON,10.0,509.0,SUV/ Crossover,87670,1062.0,1925.0
+2023 Tesla Model 3 RWD,34990,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2023.0,RWD,1.9,Concord,ON,10.4,438.0,Sedan,40860,1085.0,648.0
+2020 Tesla Model 3 Standard Range AWD,26800,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range AWD,1.9,Concord,ON,10.0,354.0,Sedan,61500,1085.0,424.0
+2022 Tesla Model 3 RWD,28489,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,Saint-Basile-Le-Grand,QC,10.0,430.0,Sedan,98237,1085.0,648.0
+2021 Tesla Model Y Long Range AWD,39880,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2021.0,Long Range AWD,1.945,Concord,ON,10.0,509.0,SUV/ Crossover,85488,1062.0,1925.0
+2023 Tesla Model Y Long Range AWD,48995,All-Wheel Drive,Black,Model Y,2023.0,Long Range AWD,1.945,Richmond,BC,11.5,531.0,SUV/ Crossover,71466,1062.0,971.0
+2023 Tesla Model Y RWD,43495,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2023.0,RWD,1.945,Mirabel,QC,9.4,418.0,SUV/ Crossover,13348,1064.0,971.0
+2022 Tesla Model Y Performance AWD,51995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2022.0,Performance AWD,2.09,Mississauga,ON,10.0,488.0,SUV/ Crossover,39983,1062.0,971.0
+2020 Tesla Model 3 Standard Range Plus RWD,32995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Abbotsford,BC,10.0,402.0,Sedan,58000,1085.0,424.0
+2020 Tesla Model 3 Performance AWD,38093,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2020.0,Performance AWD,1.9,Windsor,ON,10.0,481.0,Sedan,69072,1085.0,424.0
+2022 Tesla Model 3 Performance AWD,46977,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2022.0,Performance AWD,2.09,Montreal,QC,10.0,507.0,Sedan,23000,1085.0,648.0
+2019 Tesla Model 3 Standard Plus RWD,23988,Rear-Wheel Drive,Black,Model 3,2019.0,Standard Plus RWD,1.9,Oakville,ON,10.0,386.0,Sedan,110000,1085.0,424.0
+2018 Tesla Model 3 Long Range RWD,29900,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2018.0,Long Range RWD,1.9,Richmond,BC,12.0,499.0,Sedan,104500,1085.0,424.0
+2019 Tesla Model 3,30995,unknown,White(/Pearl White Multi-Coat),Model 3,2019.0,unknown,1.9,Coquitlam,BC,10.0,430.0,Sedan,58372,1085.0,424.0
+2022 Tesla Model 3 RWD,30887,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,Terrebonne,QC,10.0,430.0,Sedan,70393,1085.0,648.0
+2020 Tesla Model 3 Standard Range Plus RWD,31800,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Langley Twp,BC,10.0,402.0,Sedan,73650,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,23888,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Toronto,ON,10.0,402.0,Sedan,124550,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,30995,Rear-Wheel Drive,Silver,Model 3,2020.0,Standard Range Plus RWD,1.9,Quebec,QC,10.0,402.0,Sedan,45451,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,26999,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Gatineau,QC,10.0,402.0,Sedan,99279,1085.0,424.0
+2016 Tesla Model X 90D AWD,41999,All-Wheel Drive,Black,Model X,2016.0,90D AWD,2.555,Surrey,BC,12.0,414.0,SUV/ Crossover,153000,1046.0,736.0
+2022 Tesla Model 3 Long Range AWD,37498,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,Long Range AWD,1.9,Saint-Eustache,QC,10.0,538.0,Sedan,60090,1085.0,648.0
+2020 Tesla Model S Long Range Plus AWD,56888,All-Wheel Drive,Black,Model S,2020.0,Long Range Plus AWD,1.99,Concord,ON,12.0,629.0,Sedan,48000,1085.0,744.0
+2022 Tesla Model 3 RWD,34995,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2022.0,RWD,1.9,Abbotsford,BC,10.0,430.0,Sedan,70414,1085.0,648.0
+2023 Tesla Model Y Long Range AWD,53948,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2023.0,Long Range AWD,1.945,Waterloo,ON,11.5,531.0,SUV/ Crossover,18039,1062.0,971.0
+2020 Tesla Model 3 Standard Range Plus RWD,28995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Lévis,QC,10.0,402.0,Sedan,77991,1085.0,424.0
+2018 Tesla Model 3 Long Range RWD,27995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2018.0,Long Range RWD,1.9,Ottawa,ON,12.0,499.0,Sedan,109058,1085.0,424.0
+2023 Tesla Model 3 RWD,33590,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2023.0,RWD,1.9,Etobicoke,ON,10.4,438.0,Sedan,60121,1085.0,648.0
+2020 Tesla Model 3 Standard Range Plus RWD,29995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Toronto,ON,10.0,402.0,Sedan,43000,1085.0,424.0
+2019 Tesla Model 3 Standard Plus RWD,30742,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2019.0,Standard Plus RWD,1.9,Chilliwack,BC,10.0,386.0,Sedan,52596,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,23997,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Vaudreuil-Dorion,QC,10.0,402.0,Sedan,110021,1085.0,424.0
+2020 Tesla Model X Long Range AWD,65995,All-Wheel Drive,Blue(/Deep Blue Metallic),Model X,2020.0,Long Range AWD,2.445,Chilliwack,BC,12.0,528.0,SUV/ Crossover,97275,1046.0,543.0
+2020 Tesla Model Y Long Range AWD,36999,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2020.0,Long Range AWD,1.99,Oakville,ON,10.0,509.0,SUV/ Crossover,100461,1062.0,1925.0
+2019 Tesla Model 3 Long Range AWD,23995,All-Wheel Drive,Black,Model 3,2019.0,Long Range AWD,2.045,Mirabel,QC,10.0,499.0,Sedan,155970,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,31995,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2021.0,Standard Range Plus RWD,1.9,Gatineau,QC,10.0,430.0,Sedan,61978,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,27800,Rear-Wheel Drive,Black,Model 3,2020.0,Standard Range Plus RWD,1.9,Mississauga,ON,10.0,402.0,Sedan,76290,1085.0,424.0
+2022 Tesla Model Y Long Range AWD,41800,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2022.0,Long Range AWD,1.945,Concord,ON,10.0,531.0,SUV/ Crossover,84388,1062.0,971.0
+2024 Tesla Model Y Long Range AWD,56900,All-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2024.0,Long Range AWD,1.99,Concord,ON,9.0,499.0,SUV/ Crossover,22800,1062.0,971.0
+2021 Tesla Model 3 Long Range AWD,34800,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Long Range AWD,1.9,Concord,ON,10.0,568.0,Sedan,73668,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,27988,Rear-Wheel Drive,Black,Model 3,2021.0,Standard Range Plus RWD,1.9,Oakville,ON,10.0,430.0,Sedan,85000,1085.0,424.0
+2019 Tesla Model 3 Performance AWD,30886,All-Wheel Drive,Black,Model 3,2019.0,Performance AWD,2.045,Concord,ON,10.0,499.0,Sedan,61000,1085.0,424.0
+2020 Tesla Model 3 Long Range AWD,27880,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2020.0,Long Range AWD,1.945,Concord,ON,10.0,518.0,Sedan,120800,1085.0,424.0
+2023 Tesla Model 3 RWD,34990,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2023.0,RWD,1.9,Concord,ON,10.4,438.0,Sedan,42700,1085.0,648.0
+2019 Tesla Model 3 Standard Plus RWD,25498,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2019.0,Standard Plus RWD,1.9,Vaughan,ON,10.0,386.0,Sedan,84173,1085.0,424.0
+2020 Tesla Model 3 Standard Range AWD,26480,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range AWD,1.9,Concord,ON,10.0,354.0,Sedan,68500,1085.0,424.0
+2023 Tesla Model 3 RWD,37500,Rear-Wheel Drive,Red,Model 3,2023.0,RWD,1.9,Richmond Hill,ON,10.4,438.0,Sedan,39390,1085.0,648.0
+2019 Tesla Model 3 Standard Plus RWD,19900,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2019.0,Standard Plus RWD,1.9,Concord,ON,10.0,386.0,Sedan,175400,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,25889,Rear-Wheel Drive,Black,Model 3,2021.0,Standard Range Plus RWD,1.9,Concord,ON,10.0,430.0,Sedan,113688,1085.0,424.0
+2018 Tesla Model 3 Performance AWD,22995,All-Wheel Drive,Red,Model 3,2018.0,Performance AWD,2.045,Concord,ON,10.0,499.0,Sedan,143866,1085.0,424.0
+2022 Tesla Model Y Performance AWD,48999,All-Wheel Drive,Black,Model Y,2022.0,Performance AWD,1.945,Saint-Jean-sur-Richelieu,QC,10.0,488.0,SUV/ Crossover,58175,1062.0,971.0
+2020 Tesla Model 3 Standard Range Plus RWD,32891,Rear-Wheel Drive,Black,Model 3,2020.0,Standard Range Plus RWD,1.9,Penticton,BC,10.0,402.0,Sedan,59326,1085.0,424.0
+2023 Tesla Model X AWD,97700,All-Wheel Drive,Black,Model X,2023.0,AWD,2.29,Vancouver,BC,14.0,560.0,SUV/ Crossover,44000,1044.0,1231.0
+2019 Tesla Model 3 Long Range AWD,31800,All-Wheel Drive,Black,Model 3,2019.0,Long Range AWD,2.045,Toronto,ON,10.0,499.0,Sedan,65000,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,25993,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Magog,QC,10.0,430.0,Sedan,109498,1085.0,424.0
+2023 Tesla Model X,99995,unknown,White(/Pearl White Multi-Coat),Model X,2023.0,unknown,2.555,Richmond,BC,12.0,475.0,SUV/ Crossover,37848,1046.0,736.0
+2022 Tesla Model 3 RWD,32498,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2022.0,RWD,1.9,St-leonard,QC,10.0,430.0,Sedan,40746,1085.0,648.0
+2022 Tesla Model 3 RWD,32999,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2022.0,RWD,1.9,L'Île-Perrot,QC,10.0,430.0,Sedan,41470,1085.0,648.0
+2023 Tesla Model 3 Performance AWD,63850,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2023.0,Performance AWD,1.9,Langley,BC,10.0,507.0,Sedan,9045,1085.0,648.0
+2021 Tesla Model Y Long Range AWD,48148,All-Wheel Drive,Black,Model Y,2021.0,Long Range AWD,1.945,Sidney,BC,10.0,509.0,SUV/ Crossover,48600,1062.0,1925.0
+2018 Tesla Model 3 Long Range AWD,27050,All-Wheel Drive,Silver,Model 3,2018.0,Long Range AWD,2.045,Richmond Hill,ON,10.0,499.0,Sedan,111975,1085.0,424.0
+2024 Tesla Model Y Performance AWD,65775,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2024.0,Performance AWD,1.945,Brossard,QC,9.8,449.0,SUV/ Crossover,16051,1062.0,971.0
+2021 Tesla Model 3 Standard Range Plus RWD,32512,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Abbotsford,BC,10.0,430.0,Sedan,71862,1085.0,424.0
+2023 Tesla Model 3 RWD,37888,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2023.0,RWD,1.9,Coquitlam,BC,10.4,438.0,Sedan,49518,1085.0,648.0
+2023 Tesla Model 3 RWD,34510,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2023.0,RWD,1.9,Richmond Hill,ON,10.4,438.0,Sedan,48102,1085.0,648.0
+2022 Tesla Model 3 Performance AWD,52995,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2022.0,Performance AWD,1.9,Lethbridge,AB,10.0,507.0,Sedan,25926,1085.0,648.0
+2022 Tesla Model 3 Long Range AWD,41995,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2022.0,Long Range AWD,1.9,Richmond,BC,10.0,538.0,Sedan,73000,1085.0,648.0
+2023 Tesla Model Y Performance AWD,51995,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2023.0,Performance AWD,2.09,Kitchener,ON,11.8,488.0,SUV/ Crossover,64472,1062.0,481.0
+2021 Tesla Model 3 Long Range AWD,34800,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Long Range AWD,1.9,Concord,ON,10.0,568.0,Sedan,75866,1085.0,424.0
+2021 Tesla Model Y Long Range AWD,44995,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2021.0,Long Range AWD,1.945,North Vancouver,BC,10.0,509.0,SUV/ Crossover,70080,1062.0,1925.0
+2022 Tesla Model Y Performance AWD,48998,All-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2022.0,Performance AWD,1.945,Saint-Jean-sur-Richelieu,QC,10.0,488.0,SUV/ Crossover,58799,1062.0,971.0
+2018 Tesla Model 3 Long Range AWD,28888,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2018.0,Long Range AWD,2.045,Nobleton,ON,10.0,499.0,Sedan,68029,1085.0,424.0
+2019 Tesla Model 3 Standard RWD,30500,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2019.0,Standard RWD,1.9,Vancouver,BC,10.0,354.0,Sedan,67490,1085.0,424.0
+2017 Tesla Model X 75D AWD,41495,All-Wheel Drive,Black,Model X,2017.0,75D AWD,2.555,Richmond,BC,12.0,383.0,SUV/ Crossover,88148,1046.0,736.0
+2022 Tesla Model 3 Long Range AWD,39999,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,Long Range AWD,1.9,Longueuil,QC,10.0,538.0,Sedan,41126,1085.0,648.0
+2020 Tesla Model 3 Standard Range Plus RWD,33996,Rear-Wheel Drive,Red,Model 3,2020.0,Standard Range Plus RWD,1.9,Abbotsford,BC,10.0,402.0,Sedan,45057,1085.0,424.0
+2020 Tesla Model 3 Standard Range AWD,24880,All-Wheel Drive,Red,Model 3,2020.0,Standard Range AWD,1.9,Concord,ON,10.0,354.0,Sedan,84900,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,29985,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2020.0,Standard Range Plus RWD,1.9,Brossard,QC,10.0,402.0,Sedan,41233,1085.0,424.0
+2019 Tesla Model 3 Performance AWD,22880,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2019.0,Performance AWD,2.045,Concord,ON,10.0,499.0,Sedan,164000,1085.0,424.0
+2018 Tesla Model 3 Long Range AWD,29450,All-Wheel Drive,Black,Model 3,2018.0,Long Range AWD,2.045,Richmond Hill,ON,10.0,499.0,Sedan,71685,1085.0,424.0
+2022 Tesla Model 3 RWD,35995,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2022.0,RWD,1.9,Kitchener,ON,10.0,430.0,Sedan,16959,1085.0,648.0
+2020 Tesla Model 3 Standard Range AWD,23990,All-Wheel Drive,Black,Model 3,2020.0,Standard Range AWD,1.9,Concord,ON,10.0,354.0,Sedan,99400,1085.0,424.0
+2018 Tesla Model 3 Long Range AWD,20989,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2018.0,Long Range AWD,2.045,Cambridge,ON,10.0,499.0,Sedan,203750,1085.0,424.0
+2021 Tesla Model Y Long Range AWD,45995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2021.0,Long Range AWD,1.945,Abbotsford,BC,10.0,509.0,SUV/ Crossover,68000,1062.0,1925.0
+2018 Tesla Model 3 Long Range RWD,27888,Rear-Wheel Drive,Silver,Model 3,2018.0,Long Range RWD,1.9,Richmond,BC,12.0,499.0,Sedan,148000,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,34888,Rear-Wheel Drive,Red,Model 3,2021.0,Standard Range Plus RWD,1.9,Maple Ridge,BC,10.0,430.0,Sedan,47000,1085.0,424.0
+2019 Tesla Model 3 Performance AWD,29888,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2019.0,Performance AWD,2.045,Montreal,QC,10.0,499.0,Sedan,66150,1085.0,424.0
+2016 Tesla Model S 90D AWD,38495,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model S,2016.0,90D AWD,2.255,Caledon,ON,12.0,473.0,Sedan,91500,1085.0,894.0
+2018 Tesla Model 3 Standard RWD,23800,Rear-Wheel Drive,Red,Model 3,2018.0,Standard RWD,1.945,Concord,ON,12.0,354.0,Sedan,110406,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,29998,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2020.0,Standard Range Plus RWD,1.9,Carignan,QC,10.0,402.0,Sedan,33997,1085.0,424.0
+2020 Tesla Model 3 Standard Range AWD,25490,All-Wheel Drive,Black,Model 3,2020.0,Standard Range AWD,1.9,Concord,ON,10.0,354.0,Sedan,75400,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,30995,Rear-Wheel Drive,Red,Model 3,2021.0,Standard Range Plus RWD,1.9,Saint-jerome,QC,10.0,430.0,Sedan,41197,1085.0,424.0
+2022 Tesla Model Y Long Range AWD,48289,All-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2022.0,Long Range AWD,1.945,Drummondville,QC,10.0,531.0,SUV/ Crossover,53000,1062.0,971.0
+2021 Tesla Model X Long Range Plus AWD,64977,All-Wheel Drive,Red,Model X,2021.0,Long Range Plus AWD,2.245,Drummondville,QC,12.0,565.0,SUV/ Crossover,98934,1046.0,543.0
+2020 Tesla Model 3 Standard Range AWD,23800,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2020.0,Standard Range AWD,1.9,Concord,ON,10.0,354.0,Sedan,102900,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,24995,Rear-Wheel Drive,Black,Model 3,2020.0,Standard Range Plus RWD,1.9,Toronto,ON,10.0,402.0,Sedan,115100,1085.0,424.0
+2021 Tesla Model Y Long Range AWD,48950,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2021.0,Long Range AWD,1.945,Sidney,BC,10.0,509.0,SUV/ Crossover,43000,1062.0,1925.0
+2022 Tesla Model 3 Long Range AWD,32995,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2022.0,Long Range AWD,1.9,Toronto,ON,10.0,538.0,Sedan,109500,1085.0,648.0
+2017 Tesla Model S 75D AWD,31880,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model S,2017.0,75D AWD,2.3,Toronto,ON,12.0,417.0,Sedan,116776,1085.0,894.0
+2020 Tesla Model 3 Standard Range AWD,25490,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2020.0,Standard Range AWD,1.9,Concord,ON,10.0,354.0,Sedan,75688,1085.0,424.0
+2022 Tesla Model 3 Long Range AWD,32500,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2022.0,Long Range AWD,1.9,Concord,ON,10.0,538.0,Sedan,115899,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,33999,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Nanaimo,BC,10.0,402.0,Sedan,56660,1085.0,424.0
+2021 Tesla Model Y Long Range AWD,33995,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2021.0,Long Range AWD,1.945,Concord,ON,10.0,509.0,SUV/ Crossover,142600,1062.0,1925.0
+2014 Tesla Model S P85 RWD,18888,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model S,2014.0,P85 RWD,2.655,Mississauga,ON,12.0,407.0,Sedan,244075,1085.0,894.0
+2020 Tesla Model 3 Standard Range Plus RWD,28800,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Mississauga,ON,10.0,402.0,Sedan,68169,1085.0,424.0
+2020 Tesla Model 3 Standard Range AWD,24995,All-Wheel Drive,Black,Model 3,2020.0,Standard Range AWD,1.9,Concord,ON,10.0,354.0,Sedan,95000,1085.0,424.0
+2017 Tesla Model S 100D AWD,29995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model S,2017.0,100D AWD,2.3,London,ON,12.0,539.0,Sedan,230653,1085.0,804.0
+2019 Tesla Model 3 Standard Plus RWD,24888,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2019.0,Standard Plus RWD,1.9,Oakville,ON,10.0,386.0,Sedan,101000,1085.0,424.0
+2016 Tesla Model X 75D AWD,41800,All-Wheel Drive,Blue(/Deep Blue Metallic),Model X,2016.0,75D AWD,2.555,Richmond,BC,12.0,383.0,SUV/ Crossover,81000,1046.0,736.0
+2019 Tesla Model 3 Standard Plus RWD,23500,Rear-Wheel Drive,Black,Model 3,2019.0,Standard Plus RWD,1.9,Richmond,BC,10.0,386.0,Sedan,145000,1085.0,424.0
+2022 Tesla Model 3 RWD,27992,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2022.0,RWD,1.9,Oakville,ON,10.0,430.0,Sedan,101800,1085.0,648.0
+2022 Tesla Model Y Performance AWD,46995,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2022.0,Performance AWD,2.09,Mississauga,ON,10.0,488.0,SUV/ Crossover,72466,1062.0,971.0
+2018 Tesla Model X 100D AWD,51995,All-Wheel Drive,Black,Model X,2018.0,100D AWD,2.655,Laval,QC,12.0,475.0,SUV/ Crossover,93759,1046.0,736.0
+2021 Tesla Model Y Long Range AWD,39800,All-Wheel Drive,Black,Model Y,2021.0,Long Range AWD,1.945,Toronto,ON,10.0,509.0,SUV/ Crossover,85000,1062.0,1925.0
+2017 Tesla Model S P100D AWD,58000,All-Wheel Drive,Blue(/Deep Blue Metallic),Model S,2017.0,P100D AWD,2.42,Coquitlam,BC,12.0,507.0,Sedan,78000,1085.0,894.0
+2020 Tesla Model 3 Standard Range Plus RWD,26995,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2020.0,Performance AWD,1.945,Lévis,QC,10.0,507.0,SUV/ Crossover,74450,1062.0,1925.0
+2023 Tesla Model Y Long Range AWD,45995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2023.0,Long Range AWD,1.945,Toronto,ON,11.5,531.0,SUV/ Crossover,57073,1062.0,971.0
+2019 Tesla Model 3 Standard Plus RWD,27888,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2019.0,Standard Plus RWD,1.9,Surrey,BC,10.0,386.0,Sedan,97854,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,33999,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Nanaimo,BC,10.0,430.0,Sedan,63401,1085.0,424.0
+2023 Tesla Model Y Performance AWD,48495,All-Wheel Drive,Black,Model Y,2023.0,Performance AWD,2.09,Cowansville,QC,11.8,488.0,SUV/ Crossover,86662,1062.0,481.0
+2022 Tesla Model 3 RWD,34800,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,Kitchener,ON,10.0,430.0,Sedan,34505,1085.0,648.0
+2021 Tesla Model 3 Performance AWD,41499,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2021.0,Performance AWD,2.09,Longueuil,QC,10.0,507.0,Sedan,47131,1085.0,424.0
+2021 Tesla Model Y Standard Range RWD,47954,Rear-Wheel Drive,Black,Model Y,2021.0,Standard Range RWD,1.945,Langley,BC,10.0,393.0,SUV/ Crossover,20922,1062.0,1925.0
+2020 Tesla Model 3 Standard Range Plus RWD,29995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Toronto,ON,10.0,402.0,Sedan,47000,1085.0,424.0
+2022 Tesla Model S Plaid AWD,90900,All-Wheel Drive,Black,Model S,2022.0,Plaid AWD,2.045,Whitby,ON,15.0,637.0,Sedan,48885,1077.0,798.0
+2021 Tesla Model 3 Standard Range Plus RWD,29880,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Concord,ON,10.0,430.0,Sedan,66000,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,27999,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Richmond,BC,10.0,402.0,Sedan,114000,1085.0,424.0
+2020 Tesla Model 3 Long Range AWD,32490,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Long Range AWD,1.945,Concord,ON,10.0,518.0,Sedan,70800,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,33900,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Surrey,BC,10.0,430.0,Sedan,65350,1085.0,424.0
+2020 Tesla Model Y Long Range AWD,41989,All-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2020.0,Long Range AWD,1.99,North Vancouver,BC,10.0,509.0,SUV/ Crossover,90994,1062.0,1925.0
+2022 Tesla Model 3 Long Range AWD,36900,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,Long Range AWD,1.9,Guelph,ON,10.0,538.0,Sedan,75894,1085.0,648.0
+2020 Tesla Model 3 Standard Range Plus RWD,28800,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Richmond,BC,10.0,402.0,Sedan,99000,1085.0,424.0
+2022 Tesla Model Y Performance AWD,49995,All-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2022.0,Performance AWD,2.09,Mississauga,ON,10.0,488.0,SUV/ Crossover,57373,1062.0,971.0
+2023 Tesla Model Y Long Range AWD,55527,All-Wheel Drive,Black,Model Y,2023.0,Long Range AWD,1.945,Vancouver,BC,11.5,531.0,SUV/ Crossover,20827,1062.0,971.0
+2021 Tesla Model Y Performance AWD,50857,All-Wheel Drive,Black,Model Y,2021.0,Performance AWD,2.09,Vancouver,BC,10.0,507.0,SUV/ Crossover,62083,1062.0,1925.0
+2022 Tesla Model 3 RWD,33989,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2022.0,RWD,1.9,Saint-Basile-Le-Grand,QC,10.0,430.0,Sedan,32682,1085.0,648.0
+2020 Tesla Model 3 Standard Range Plus RWD,29986,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Abbotsford,BC,10.0,402.0,Sedan,95423,1085.0,424.0
+2022 Tesla Model 3 RWD,36684,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,Vancouver,BC,10.0,430.0,Sedan,55100,1085.0,648.0
+2019 Tesla Model 3 Standard Plus RWD,26388,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2019.0,Standard Plus RWD,1.9,Mississauga,ON,10.0,386.0,Sedan,77075,1085.0,424.0
+2022 Tesla Model 3 Long Range AWD,38888,All-Wheel Drive,Black,Model 3,2022.0,Long Range AWD,1.9,Mississauga,ON,10.0,538.0,Sedan,57000,1085.0,648.0
+2022 Tesla Model Y Performance AWD,46999,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2022.0,Performance AWD,2.09,Saint-Constant,QC,10.0,488.0,SUV/ Crossover,70563,1062.0,971.0
+2020 Tesla Model Y Long Range AWD,39995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2020.0,Long Range AWD,1.99,Toronto,ON,10.0,509.0,SUV/ Crossover,69000,1062.0,1925.0
+2021 Tesla Model 3 Standard Range Plus RWD,28500,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Toronto,ON,10.0,430.0,Sedan,78085,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,28698,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2020.0,Standard Range Plus RWD,1.9,Vaudreuil-Dorion,QC,10.0,402.0,Sedan,55850,1085.0,424.0
+2022 Tesla Model X AWD,91473,All-Wheel Drive,White(/Pearl White Multi-Coat),Model X,2022.0,AWD,2.555,Windsor,ON,12.0,534.0,SUV/ Crossover,16100,1044.0,1231.0
+2021 Tesla Model Y Performance AWD,46898,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2021.0,Performance AWD,1.945,Vaughan,ON,10.0,507.0,SUV/ Crossover,71283,1062.0,1925.0
+2017 Tesla Model X 90D AWD,47995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model X,2017.0,90D AWD,2.555,Laval,QC,12.0,414.0,SUV/ Crossover,68920,1046.0,736.0
+2021 Tesla Model Y Long Range AWD,38998,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2021.0,Long Range AWD,1.945,Scarborough,ON,10.0,509.0,SUV/ Crossover,101368,1062.0,1925.0
+2021 Tesla Model 3 Standard Range Plus RWD,28999,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2021.0,Standard Range Plus RWD,1.9,Sarnia,ON,10.0,430.0,Sedan,82645,1085.0,424.0
+2024 Tesla Model Y Long Range AWD,56990,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2024.0,Long Range AWD,1.99,Etobicoke,ON,9.0,499.0,SUV/ Crossover,20827,1062.0,971.0
+2022 Tesla Model 3 RWD,34800,Rear-Wheel Drive,Black,Model 3,2022.0,RWD,1.9,Kitchener,ON,10.0,430.0,Sedan,36966,1085.0,648.0
+2019 Tesla Model 3 Long Range AWD,32999,All-Wheel Drive,Black,Model 3,2019.0,Long Range AWD,2.045,Richmond,BC,10.0,499.0,Sedan,98637,1085.0,424.0
+2022 Tesla Model Y Performance AWD,38990,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2022.0,Performance AWD,2.09,Concord,ON,10.0,488.0,SUV/ Crossover,131800,1062.0,971.0
+2018 Tesla Model 3 Long Range RWD,29950,Rear-Wheel Drive,Silver,Model 3,2018.0,Long Range RWD,1.9,Toronto,ON,12.0,499.0,Sedan,29274,1085.0,424.0
+2022 Tesla Model 3 RWD,36995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,Abbotsford,BC,10.0,430.0,Sedan,51000,1085.0,648.0
+2020 Tesla Model 3 Standard Range AWD,26490,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range AWD,1.9,Concord,ON,10.0,354.0,Sedan,72700,1085.0,424.0
+2023 Tesla Model 3 RWD,37990,Rear-Wheel Drive,Black,Model 3,2023.0,RWD,1.9,Etobicoke,ON,10.4,438.0,Sedan,14319,1085.0,648.0
+2021 Tesla Model Y Long Range AWD,48970,All-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2021.0,Long Range AWD,1.945,Burnaby,BC,10.0,509.0,SUV/ Crossover,46432,1062.0,1925.0
+2019 Tesla Model 3 Performance AWD,29995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2019.0,Performance AWD,2.045,Coaticook,QC,10.0,499.0,Sedan,85345,1085.0,424.0
+2023 Tesla Model 3 RWD,30850,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2023.0,RWD,1.9,Concord,ON,10.4,438.0,Sedan,114500,1085.0,648.0
+2023 Tesla Model Y Long Range AWD,49870,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2023.0,Long Range AWD,1.945,Blainville,QC,11.5,531.0,SUV/ Crossover,45189,1062.0,971.0
+2018 Tesla Model X 75D AWD,54995,All-Wheel Drive,Black,Model X,2018.0,75D AWD,2.555,Regina,SK,12.0,381.0,SUV/ Crossover,75000,1046.0,736.0
+2020 Tesla Model Y Performance AWD,39886,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2020.0,Performance AWD,1.99,Concord,ON,10.0,507.0,SUV/ Crossover,101466,1062.0,1925.0
+2020 Tesla Model 3 Long Range AWD,33480,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2020.0,Long Range AWD,1.945,Concord,ON,10.0,518.0,Sedan,60872,1085.0,424.0
+2014 Tesla Model S P85 RWD,14999,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model S,2014.0,P85 RWD,2.655,Halton Hills,ON,12.0,407.0,Sedan,304048,1085.0,894.0
+2023 Tesla Model Y RWD,41995,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2023.0,RWD,1.945,Mississauga,ON,9.4,418.0,SUV/ Crossover,35204,1064.0,971.0
+2020 Tesla Model S Long Range Plus AWD,64950,All-Wheel Drive,White(/Pearl White Multi-Coat),Model S,2020.0,Long Range Plus AWD,1.99,North Vancouver,BC,12.0,629.0,Sedan,34000,1085.0,744.0
+2019 Tesla Model 3 Standard Plus RWD,30950,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2019.0,Standard Plus RWD,1.9,North Vancouver,BC,10.0,386.0,Sedan,61000,1085.0,424.0
+2021 Tesla Model S Plaid AWD,84890,All-Wheel Drive,White(/Pearl White Multi-Coat),Model S,2021.0,Plaid AWD,2.345,North York,ON,15.0,628.0,Sedan,68000,1085.0,744.0
+2022 Tesla Model 3 RWD,34390,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2022.0,RWD,1.9,Bedford,NS,10.0,430.0,Sedan,59292,1085.0,648.0
+2020 Tesla Model Y Long Range AWD,44999,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2020.0,Long Range AWD,1.99,Surrey,BC,10.0,509.0,SUV/ Crossover,47000,1062.0,1925.0
+2019 Tesla Model 3 Standard Plus RWD,27995,Rear-Wheel Drive,Black,Model 3,2019.0,Standard Plus RWD,1.9,Mission,BC,10.0,386.0,Sedan,103520,1085.0,424.0
+2021 Tesla Model Y Performance AWD,43888,All-Wheel Drive,Black,Model Y,2021.0,Performance AWD,2.09,Concord,ON,10.0,507.0,SUV/ Crossover,114682,1062.0,1925.0
+2015 Tesla Model S 85D AWD,23995,All-Wheel Drive,Red,Model S,2015.0,85D AWD,2.365,Montreal,QC,12.0,435.0,Sedan,228000,1085.0,894.0
+2020 Tesla Model 3 Standard Range Plus RWD,27498,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,St-leonard,QC,10.0,402.0,Sedan,67866,1085.0,424.0
+2023 Tesla Model Y RWD,39995,Rear-Wheel Drive,Red,Model Y,2023.0,RWD,1.945,Mississauga,ON,9.4,418.0,SUV/ Crossover,48409,1064.0,971.0
+2021 Tesla Model 3 Standard Range Plus RWD,28988,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2021.0,Standard Range Plus RWD,1.9,Oakville,ON,10.0,430.0,Sedan,80000,1085.0,424.0
+2019 Tesla Model 3 Long Range AWD,35404,All-Wheel Drive,Red,Model 3,2019.0,Long Range AWD,2.045,Sechelt,BC,10.0,499.0,Sedan,69580,1085.0,424.0
+2016 Tesla Model X,43999,unknown,Gray(/Dark Grey/Stealth Grey/Charcoal),Model X,2016.0,unknown,2.555,North Vancouver,BC,12.0,475.0,SUV/ Crossover,107000,1046.0,736.0
+2022 Tesla Model Y Performance AWD,45490,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2022.0,Performance AWD,2.09,Concord,ON,10.0,488.0,SUV/ Crossover,86400,1062.0,971.0
+2022 Tesla Model 3 Long Range AWD,39888,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,Long Range AWD,1.9,Saint-Jean-sur-Richelieu,QC,10.0,538.0,Sedan,47106,1085.0,648.0
+2022 Tesla Model Y Long Range AWD,47999,All-Wheel Drive,Black,Model Y,2022.0,Long Range AWD,1.945,Longueuil,QC,10.0,531.0,SUV/ Crossover,35181,1062.0,971.0
+2022 Tesla Model 3 Long Range AWD,36888,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2022.0,Long Range AWD,1.9,Pickering,ON,10.0,538.0,Sedan,73770,1085.0,648.0
+2021 Tesla Model 3 Standard Range Plus RWD,32000,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Brandon,MB,10.0,430.0,Sedan,90525,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,30888,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Oakville,ON,10.0,430.0,Sedan,50422,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,27988,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2021.0,Standard Range Plus RWD,1.9,Oakville,ON,10.0,430.0,Sedan,93000,1085.0,424.0
+2020 Tesla Model 3 Long Range AWD,39810,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Long Range AWD,1.945,Delta,BC,10.0,518.0,Sedan,24559,1085.0,424.0
+2022 Tesla Model Y Performance AWD,48999,All-Wheel Drive,Red,Model Y,2022.0,Performance AWD,2.09,Saint-Constant,QC,10.0,488.0,SUV/ Crossover,57900,1062.0,971.0
+2020 Tesla Model 3 Long Range AWD,27800,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Long Range AWD,1.945,Toronto,ON,10.0,518.0,Sedan,125000,1085.0,424.0
+2020 Tesla Model Y Long Range AWD,41150,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2020.0,Long Range AWD,1.99,Richmond Hill,ON,10.0,509.0,SUV/ Crossover,61350,1062.0,1925.0
+2020 Tesla Model Y Performance AWD,38989,All-Wheel Drive,Black,Model Y,2020.0,Performance AWD,1.99,Saint-Basile-Le-Grand,QC,10.0,507.0,SUV/ Crossover,101641,1062.0,1925.0
+2023 Tesla Model Y Long Range AWD,46995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2023.0,Long Range AWD,1.945,Toronto,ON,11.5,531.0,SUV/ Crossover,57010,1062.0,971.0
+2022 Tesla Model 3 RWD,32775,Rear-Wheel Drive,Black,Model 3,2022.0,RWD,1.9,Brossard,QC,10.0,430.0,Sedan,53584,1085.0,648.0
+2023 Tesla Model Y,44888,unknown,Silver,Model Y,2023.0,unknown,1.945,Calgary,AB,10.0,509.0,SUV/ Crossover,9698,1062.0,971.0
+2022 Tesla Model 3 RWD,37500,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,Vancouver,BC,10.0,430.0,Sedan,45303,1085.0,648.0
+2019 Tesla Model 3 Standard Plus RWD,20995,Rear-Wheel Drive,Black,Model 3,2019.0,Standard Plus RWD,1.9,London,ON,10.0,386.0,Sedan,189299,1085.0,424.0
+2023 Tesla Model Y RWD,37900,Rear-Wheel Drive,Black,Model Y,2023.0,RWD,1.945,Concord,ON,9.4,418.0,SUV/ Crossover,74000,1064.0,971.0
+2021 Tesla Model 3 Standard Range Plus RWD,29990,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Etobicoke,ON,10.0,430.0,Sedan,60833,1085.0,424.0
+2022 Tesla Model X Plaid AWD,129888,All-Wheel Drive,Black,Model X,2022.0,Plaid AWD,2.39,Coquitlam,BC,12.0,504.0,SUV/ Crossover,16641,1044.0,608.0
+2022 Tesla Model Y Long Range AWD,50995,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2022.0,Long Range AWD,1.945,Mississauga,ON,10.0,531.0,SUV/ Crossover,32369,1062.0,971.0
+2022 Tesla Model 3 Long Range AWD,39991,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,Long Range AWD,1.9,Mississauga,ON,10.0,538.0,Sedan,51930,1085.0,648.0
+2018 Tesla Model 3 Performance AWD,23990,All-Wheel Drive,Black,Model 3,2018.0,Performance AWD,2.045,Concord,ON,10.0,499.0,Sedan,131600,1085.0,424.0
+2023 Tesla Model Y,44888,unknown,White(/Pearl White Multi-Coat),Model Y,2023.0,unknown,1.945,Calgary,AB,10.0,509.0,SUV/ Crossover,10995,1062.0,971.0
+2022 Tesla Model 3 Long Range AWD,35980,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2022.0,Long Range AWD,1.9,St.-Hubert,QC,10.0,538.0,Sedan,84666,1085.0,648.0
+2019 Tesla Model 3 Long Range AWD,34800,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2019.0,Long Range AWD,2.045,Richmond,BC,10.0,499.0,Sedan,77000,1085.0,424.0
+2022 Tesla Model 3 RWD,30588,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2022.0,RWD,1.9,Saint-Hubert,QC,10.0,430.0,Sedan,84187,1085.0,648.0
+2019 Tesla Model 3 Performance AWD,25980,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2019.0,Performance AWD,2.045,Concord,ON,10.0,499.0,Sedan,131366,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,29998,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Vaughan,ON,10.0,430.0,Sedan,64209,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,29998,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2023.0,Long Range AWD,1.9,Vaughan,ON,11.5,576.0,Sedan,38871,1085.0,648.0
+2021 Tesla Model 3 Performance AWD,41994,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Performance AWD,2.09,Nanaimo,BC,10.0,507.0,Sedan,72850,1085.0,424.0
+2022 Tesla Model 3 RWD,30889,Rear-Wheel Drive,Black,Model 3,2022.0,RWD,1.9,Terrebonne,QC,10.0,430.0,Sedan,81376,1085.0,648.0
+2015 Tesla Model S P85D AWD,26999,All-Wheel Drive,Black,Model S,2015.0,P85D AWD,2.51,Newmarket,ON,12.0,407.0,Sedan,127450,1085.0,894.0
+2021 Tesla Model 3 Long Range AWD,40991,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Long Range AWD,1.9,Winnipeg,MB,10.0,568.0,Sedan,70711,1085.0,424.0
+2020 Tesla Model 3 Standard Range AWD,22480,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range AWD,1.9,Concord,ON,10.0,354.0,Sedan,128790,1085.0,424.0
+2021 Tesla Model Y Long Range AWD,44995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2021.0,Long Range AWD,1.945,Mississauga,ON,10.0,509.0,SUV/ Crossover,50501,1062.0,1925.0
+2020 Tesla Model 3 Long Range AWD,29888,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2020.0,Long Range AWD,1.945,Concord,ON,10.0,518.0,Sedan,100224,1085.0,424.0
+2022 Tesla Model Y Long Range AWD,42880,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2022.0,Long Range AWD,1.945,Concord,ON,10.0,531.0,SUV/ Crossover,96760,1062.0,971.0
+2022 Tesla Model 3 RWD,34895,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,Pointe-aux-trembles,QC,10.0,430.0,Sedan,21754,1085.0,648.0
+2020 Tesla Model 3 Standard Range AWD,23980,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2020.0,Standard Range AWD,1.9,Concord,ON,10.0,354.0,Sedan,104700,1085.0,424.0
+2023 Tesla Model X AWD,95985,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model X,2023.0,AWD,2.29,Laval,QC,14.0,560.0,SUV/ Crossover,39423,1044.0,1231.0
+2021 Tesla Model 3 Standard Range Plus RWD,22950,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Mississauga,ON,10.0,430.0,Sedan,150786,1085.0,424.0
+2022 Tesla Model Y Long Range AWD,45985,All-Wheel Drive,Black,Model Y,2022.0,Long Range AWD,1.945,North York,ON,10.0,531.0,SUV/ Crossover,73323,1062.0,971.0
+2022 Tesla Model Y Long Range AWD,47480,All-Wheel Drive,Black,Model Y,2022.0,Long Range AWD,1.945,Montréal,QC,10.0,531.0,SUV/ Crossover,55419,1062.0,971.0
+2020 Tesla Model 3 Standard Range AWD,27990,All-Wheel Drive,Black,Model 3,2020.0,Standard Range AWD,1.9,Concord,ON,10.0,354.0,Sedan,50980,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,24998,Rear-Wheel Drive,Red,Model 3,2020.0,Standard Range Plus RWD,1.9,St. Andrews,MB,10.0,402.0,Sedan,167214,1085.0,424.0
+2022 Tesla Model 3 Long Range AWD,48980,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2022.0,Long Range AWD,1.9,Vancouver,BC,10.0,538.0,Sedan,17188,1085.0,648.0
+2020 Tesla Model 3 Standard Range Plus RWD,27888,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Mississauga,ON,10.0,402.0,Sedan,78462,1085.0,424.0
+2020 Tesla Model Y Performance AWD,37887,All-Wheel Drive,Black,Model Y,2020.0,Performance AWD,1.99,Concord,ON,10.0,507.0,SUV/ Crossover,119700,1063.0,971.0
+2019 Tesla Model 3 Long Range AWD,33990,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2019.0,Long Range AWD,2.045,Etobicoke,ON,10.0,499.0,Sedan,43060,1085.0,424.0
+2023 Tesla Model Y RWD,39995,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2023.0,RWD,1.945,Salaberry-de-Valleyfield,QC,9.4,418.0,SUV/ Crossover,48687,1064.0,971.0
+2023 Tesla Model Y RWD,42988,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2023.0,RWD,1.945,Saint-Hubert,QC,9.4,418.0,SUV/ Crossover,23325,1064.0,971.0
+2016 Tesla Model S P90D AWD,29955,All-Wheel Drive,White(/Pearl White Multi-Coat),Model S,2016.0,P90D AWD,2.51,Montreal,QC,12.0,435.0,Sedan,280200,1085.0,894.0
+2022 Tesla Model 3 Long Range AWD,40500,All-Wheel Drive,Black,Model 3,2022.0,Long Range AWD,1.9,Richmond Hill,ON,10.0,538.0,Sedan,51601,1085.0,648.0
+2022 Tesla Model 3 RWD,34988,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2022.0,RWD,1.9,Victoriaville,QC,10.0,430.0,Sedan,41500,1085.0,648.0
+2023 Tesla Model 3 RWD,34880,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2023.0,RWD,1.9,Concord,ON,10.4,438.0,Sedan,52600,1085.0,424.0
+2022 Tesla Model X AWD,93888,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model X,2022.0,AWD,2.29,Surrey,BC,12.0,534.0,SUV/ Crossover,51000,1044.0,1231.0
+2023 Tesla Model Y,44888,unknown,White(/Pearl White Multi-Coat),Model Y,2023.0,unknown,1.945,Calgary,AB,10.0,509.0,SUV/ Crossover,15443,1062.0,971.0
+2015 Tesla Model S P90D AWD,28900,All-Wheel Drive,Red,Model S,2015.0,P90D AWD,2.51,Montreal,QC,12.0,407.0,Sedan,150000,1085.0,894.0
+2021 Tesla Model 3 Long Range AWD,34995,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2021.0,Long Range AWD,1.9,Acton,ON,10.0,568.0,Sedan,79350,1085.0,424.0
+2019 Tesla Model 3 Standard Plus RWD,28800,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2019.0,Standard Plus RWD,1.9,Vancouver,BC,10.0,386.0,Sedan,90000,1085.0,424.0
+2022 Tesla Model 3 Performance AWD,46888,All-Wheel Drive,Black,Model 3,2022.0,Performance AWD,2.09,Toronto,ON,10.0,507.0,Sedan,60400,1085.0,648.0
+2020 Tesla Model 3 Standard Range AWD,25490,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range AWD,1.9,Concord,ON,10.0,354.0,Sedan,96733,1085.0,424.0
+2017 Tesla Model S 75D AWD,33999,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model S,2017.0,75D AWD,2.255,Mississauga,ON,12.0,417.0,Sedan,135000,1085.0,894.0
+2013 Tesla Model S 85 RWD,15490,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model S,2013.0,85 RWD,2.655,Fenwick,ON,12.0,426.0,Sedan,267000,1085.0,894.0
+2022 Tesla Model 3 RWD,34999,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,Vaughan,ON,10.0,430.0,Sedan,45500,1085.0,648.0
+2016 Tesla Model X 90D AWD,55777,All-Wheel Drive,Silver,Model X,2016.0,90D AWD,2.555,Toronto,ON,12.0,414.0,SUV/ Crossover,71400,1045.0,736.0
+2016 Tesla Model S 90D AWD,29955,All-Wheel Drive,Blue(/Deep Blue Metallic),Model S,2016.0,90D AWD,2.255,Montreal,QC,12.0,473.0,Sedan,218800,1085.0,894.0
+2024 Tesla Model Y Long Range AWD,55881,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2024.0,Long Range AWD,1.945,Edmonton,AB,9.0,499.0,SUV/ Crossover,65350,1062.0,971.0
+2018 Tesla Model 3 Long Range RWD,22880,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2018.0,Long Range RWD,1.9,Scarborough,ON,12.0,499.0,Sedan,179677,1085.0,424.0
+2021 Tesla Model 3 Performance AWD,44692,All-Wheel Drive,Black,Model 3,2021.0,Performance AWD,2.09,Chilliwack,BC,10.0,507.0,Sedan,70501,1085.0,424.0
+2013 Tesla Model S Performance RWD,19999,Rear-Wheel Drive,Black,Model S,2013.0,Performance RWD,2.655,Toronto,ON,12.0,407.0,Sedan,289607,1085.0,894.0
+2023 Tesla Model Y RWD,44995,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2023.0,RWD,1.945,Kelowna,BC,9.4,418.0,SUV/ Crossover,55325,1064.0,971.0
+2018 Tesla Model 3 Long Range AWD,26998,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2018.0,Long Range AWD,2.045,Vaudreuil-Dorion,QC,10.0,499.0,Sedan,113168,1085.0,424.0
+2022 Tesla Model Y Performance AWD,59995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2022.0,Performance AWD,2.09,Abbotsford,BC,10.0,488.0,SUV/ Crossover,19000,1062.0,971.0
+2019 Tesla Model 3 Standard Plus RWD,30800,Rear-Wheel Drive,Black,Model 3,2019.0,Standard Plus RWD,1.9,Richmond,BC,10.0,386.0,Sedan,74000,1085.0,424.0
+2023 Tesla Model Y Long Range AWD,50990,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2023.0,Long Range AWD,1.945,Etobicoke,ON,11.5,531.0,SUV/ Crossover,38697,1062.0,971.0
+2016 Tesla Model X 90D AWD,49750,All-Wheel Drive,Blue(/Deep Blue Metallic),Model X,2016.0,90D AWD,2.555,Coquitlam,BC,12.0,414.0,SUV/ Crossover,139485,1046.0,736.0
+2019 Tesla Model 3,28995,unknown,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2019.0,unknown,1.9,Langley,BC,10.0,430.0,Sedan,114384,1085.0,424.0
+2022 Tesla Model 3 RWD,36995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,Ottawa,ON,10.0,430.0,Sedan,48820,1085.0,648.0
+2022 Tesla Model Y Long Range AWD,49986,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2022.0,Long Range AWD,1.945,Cowansville,QC,10.0,531.0,SUV/ Crossover,36697,1062.0,971.0
+2020 Tesla Model 3 Long Range AWD,35984,All-Wheel Drive,Black,Model 3,2020.0,Long Range AWD,1.945,Cowansville,QC,10.0,518.0,Sedan,42133,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,28980,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2020.0,Standard Range Plus RWD,1.9,Toronto,ON,10.0,402.0,Sedan,82064,1085.0,424.0
+2022 Tesla Model 3 Long Range AWD,44988,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,Long Range AWD,1.9,Brantford,ON,10.0,538.0,Sedan,34680,1085.0,648.0
+2018 Tesla Model 3 Long Range AWD,29498,All-Wheel Drive,Black,Model 3,2018.0,Long Range AWD,2.045,St-leonard,QC,10.0,499.0,Sedan,65938,1085.0,424.0
+2019 Tesla Model 3 Standard RWD,26990,Rear-Wheel Drive,Black,Model 3,2019.0,Standard RWD,1.9,Etobicoke,ON,10.0,354.0,Sedan,85760,1085.0,424.0
+2022 Tesla Model 3 Long Range AWD,39999,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2022.0,Long Range AWD,1.9,Saint-Jean-sur-Richelieu,QC,10.0,538.0,Sedan,63303,1085.0,648.0
+2022 Tesla Model 3 Performance AWD,47988,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2022.0,Performance AWD,2.09,Burlington,ON,10.0,507.0,Sedan,53743,1085.0,648.0
+2022 Tesla Model Y Long Range AWD,57897,All-Wheel Drive,Silver,Model Y,2022.0,Long Range AWD,1.945,Surrey,BC,10.0,531.0,SUV/ Crossover,21354,1062.0,971.0
+2020 Tesla Model 3 Standard Range Plus RWD,24590,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Etobicoke,ON,10.0,402.0,Sedan,129886,1085.0,424.0
+2020 Tesla Model 3 Long Range AWD,34995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Long Range AWD,1.945,Hamilton,ON,10.0,518.0,Sedan,57625,1085.0,424.0
+2023 Tesla Model 3 Long Range AWD,48989,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2023.0,Long Range AWD,1.9,Richmond,BC,11.5,576.0,Sedan,22906,1085.0,648.0
+2023 Tesla Model 3 Long Range AWD,49994,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2023.0,Long Range AWD,1.9,Langley,BC,11.5,576.0,Sedan,10500,1085.0,648.0
+2019 Tesla Model 3,25900,unknown,Red,Model 3,2019.0,unknown,1.9,Whitby,ON,10.0,430.0,Sedan,100090,1085.0,424.0
+2020 Tesla Model Y Long Range AWD,40888,All-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2020.0,Long Range AWD,1.99,North York,ON,10.0,509.0,SUV/ Crossover,66935,1062.0,1925.0
+2019 Tesla Model 3 Standard Plus RWD,28490,Rear-Wheel Drive,Red,Model 3,2019.0,Standard Plus RWD,1.9,Etobicoke,ON,10.0,386.0,Sedan,64570,1085.0,424.0
+2018 Tesla Model X 75D AWD,42955,All-Wheel Drive,White(/Pearl White Multi-Coat),Model X,2018.0,75D AWD,2.555,Montreal,QC,12.0,381.0,SUV/ Crossover,162800,1046.0,736.0
+2018 Tesla Model S 75D AWD,46988,All-Wheel Drive,White(/Pearl White Multi-Coat),Model S,2018.0,75D AWD,2.255,Brantford,ON,12.0,417.0,Sedan,34485,1085.0,744.0
+2019 Tesla Model 3 Standard RWD,24299,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2019.0,Standard RWD,1.9,Brampton,ON,10.0,354.0,Sedan,117900,1085.0,424.0
+2017 Tesla Model X 100D AWD,64900,All-Wheel Drive,Blue(/Deep Blue Metallic),Model X,2017.0,100D AWD,2.655,Burnaby,BC,12.0,475.0,SUV/ Crossover,97000,1045.0,736.0
+2021 Tesla Model 3 Standard Range Plus RWD,26998,Rear-Wheel Drive,Black,Model 3,2021.0,Standard Range Plus RWD,1.9,St-leonard,QC,10.0,430.0,Sedan,111977,1085.0,424.0
+2020 Tesla Model 3 Long Range AWD,27500,All-Wheel Drive,Black,Model 3,2020.0,Long Range AWD,1.945,Mississauga,ON,10.0,518.0,Sedan,148000,1085.0,424.0
+2019 Tesla Model 3 Standard Plus RWD,27888,Rear-Wheel Drive,Black,Model 3,2019.0,Standard Plus RWD,1.9,Concord,ON,10.0,386.0,Sedan,77333,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,29985,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2020.0,Standard Range Plus RWD,1.9,North York,ON,10.0,402.0,Sedan,81508,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,29950,Rear-Wheel Drive,Black,Model 3,2021.0,Standard Range Plus RWD,1.9,Saint-Eustache,QC,10.0,430.0,Sedan,80000,1085.0,424.0
+2021 Tesla Model Y Standard Range RWD,38980,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2021.0,Standard Range RWD,1.945,Montréal,QC,10.0,393.0,SUV/ Crossover,77586,1062.0,1925.0
+2020 Tesla Model 3 Standard Range Plus RWD,27995,Rear-Wheel Drive,Black,Model 3,2020.0,Standard Range Plus RWD,1.9,Toronto,ON,10.0,402.0,Sedan,99000,1085.0,424.0
+2022 Tesla Model Y Long Range AWD,44499,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2022.0,Long Range AWD,1.945,Laval,QC,10.0,531.0,SUV/ Crossover,77780,1062.0,971.0
+2019 Tesla Model 3 Long Range AWD,35800,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2019.0,Long Range AWD,2.045,Richmond,BC,10.0,499.0,Sedan,87000,1085.0,424.0
+2023 Tesla Model Y Long Range AWD,51490,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2023.0,Long Range AWD,1.945,Etobicoke,ON,11.5,531.0,SUV/ Crossover,37053,1062.0,971.0
+2021 Tesla Model 3 Long Range AWD,33888,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Long Range AWD,1.9,Concord,ON,10.0,568.0,Sedan,93097,1085.0,424.0
+2020 Tesla Model Y Performance AWD,45790,All-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2020.0,Performance AWD,1.99,Etobicoke,ON,10.0,507.0,SUV/ Crossover,65904,1062.0,1925.0
+2023 Tesla Model Y RWD,43995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2023.0,RWD,1.945,Mississauga,ON,9.4,418.0,SUV/ Crossover,34177,1064.0,971.0
+2019 Tesla Model 3,30597,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2019.0,Standard RWD,1.9,Coquitlam,BC,10.0,430.0,Sedan,99166,1085.0,424.0
+2017 Tesla Model X 75D AWD,45995,All-Wheel Drive,Blue(/Deep Blue Metallic),Model X,2017.0,75D AWD,2.555,Ottawa,ON,12.0,383.0,SUV/ Crossover,72366,1046.0,736.0
+2024 Tesla Model Y,54000,unknown,Black,Model Y,2024.0,unknown,1.945,Toronto,ON,10.0,509.0,SUV/ Crossover,12235,1062.0,971.0
+2018 Tesla Model 3 Performance AWD,25990,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2018.0,Performance AWD,2.045,Concord,ON,10.0,499.0,Sedan,111688,1085.0,424.0
+2023 Tesla Model Y Performance AWD,58499,All-Wheel Drive,Black,Model Y,2023.0,Performance AWD,2.09,Burnaby,BC,11.8,488.0,SUV/ Crossover,34850,1062.0,481.0
+2022 Tesla Model 3 Long Range AWD,48999,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,Long Range AWD,1.9,Toronto,ON,10.0,538.0,Sedan,565,1085.0,424.0
+2022 Tesla Model Y Performance AWD,45999,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2022.0,Performance AWD,2.09,Laval,QC,10.0,488.0,SUV/ Crossover,88962,1062.0,971.0
+2020 Tesla Model Y Performance AWD,51995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2020.0,Performance AWD,1.99,Richmond,BC,10.0,507.0,SUV/ Crossover,44586,1062.0,1925.0
+2020 Tesla Model 3 Standard Range Plus RWD,32881,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Langley,BC,10.0,402.0,Sedan,82000,1085.0,424.0
+2023 Tesla Model 3 Performance AWD,46999,All-Wheel Drive,Black,Model 3,2023.0,Performance AWD,2.09,Saint-Constant,QC,10.0,507.0,Sedan,43681,1085.0,648.0
+2021 Tesla Model 3 Standard Range Plus RWD,32800,Rear-Wheel Drive,Black,Model 3,2021.0,Standard Range Plus RWD,1.9,London,ON,10.0,430.0,Sedan,81000,1085.0,424.0
+2019 Tesla Model X 100D AWD,69910,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model X,2019.0,100D AWD,2.655,Woodbridge,ON,12.0,475.0,SUV/ Crossover,59088,1046.0,543.0
+2022 Tesla Model 3 RWD,38475,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,Chilliwack,BC,10.0,430.0,Sedan,54252,1085.0,648.0
+2024 Tesla Model Y Long Range AWD,65900,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2024.0,Long Range AWD,1.99,Surrey,BC,9.0,499.0,SUV/ Crossover,4500,1062.0,971.0
+2021 Tesla Model 3 Standard Range Plus RWD,39800,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Surrey,BC,10.0,430.0,Sedan,11621,1085.0,424.0
+2019 Tesla Model 3 Standard Plus RWD,27888,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2019.0,Standard Plus RWD,1.9,Concord,ON,10.0,386.0,Sedan,79812,1085.0,424.0
+2022 Tesla Model Y Performance AWD,55800,All-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2022.0,Performance AWD,2.09,Richmond,BC,10.0,488.0,SUV/ Crossover,55914,1062.0,971.0
+2023 Tesla Model 3 Long Range AWD,44928,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2023.0,Long Range AWD,1.9,Laval,QC,11.5,576.0,Sedan,30817,1085.0,648.0
+2022 Tesla Model Y Performance AWD,48995,All-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2022.0,Performance AWD,1.945,Mississauga,ON,10.0,488.0,SUV/ Crossover,82205,1062.0,971.0
+2022 Tesla Model Y Long Range AWD,45888,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2022.0,Long Range AWD,1.945,Concord,ON,10.0,531.0,SUV/ Crossover,74850,1062.0,971.0
+2020 Tesla Model 3 Performance AWD,40999,All-Wheel Drive,Red,Model 3,2020.0,Performance AWD,1.945,Guelph,ON,10.0,481.0,Sedan,68879,1085.0,424.0
+2022 Tesla Model Y Long Range AWD,52999,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2022.0,Long Range AWD,1.945,Prince Rupert,BC,10.0,531.0,SUV/ Crossover,42608,1062.0,971.0
+2019 Tesla Model 3,29990,unknown,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2019.0,unknown,1.9,Victoriaville,QC,10.0,430.0,Sedan,69500,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,28349,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2020.0,Standard Range Plus RWD,1.9,Owen Sound,ON,10.0,402.0,Sedan,107294,1085.0,424.0
+2022 Tesla Model 3 Long Range AWD,39888,All-Wheel Drive,Red,Model 3,2022.0,Long Range AWD,1.9,Saint-Jean-sur-Richelieu,QC,10.0,538.0,Sedan,68450,1085.0,648.0
+2018 Tesla Model 3 Long Range AWD,29998,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2018.0,Long Range AWD,2.045,Scarborough,ON,10.0,499.0,Sedan,99899,1085.0,424.0
+2020 Tesla Model Y Long Range AWD,41888,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2020.0,Long Range AWD,1.99,Concord,ON,10.0,509.0,SUV/ Crossover,76960,1062.0,1925.0
+2022 Tesla Model 3 Long Range AWD,45985,All-Wheel Drive,Black,Model 3,2022.0,Long Range AWD,1.9,Calgary,AB,10.0,538.0,Sedan,49827,1085.0,648.0
+2022 Tesla Model 3 RWD,36500,Rear-Wheel Drive,Black,Model 3,2022.0,RWD,1.9,London,ON,10.0,430.0,Sedan,61000,1085.0,648.0
+2021 Tesla Model 3 Standard Range Plus RWD,37990,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Victoria,BC,10.0,430.0,Sedan,40710,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,28888,Rear-Wheel Drive,Black,Model 3,2021.0,Standard Range Plus RWD,1.9,Toronto,ON,10.0,430.0,Sedan,99500,1085.0,424.0
+2020 Tesla Model Y Long Range AWD,43985,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2020.0,Long Range AWD,1.99,North York,ON,10.0,509.0,SUV/ Crossover,56886,1062.0,1925.0
+2020 Tesla Model 3 Long Range AWD,34590,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2020.0,Long Range AWD,1.945,Etobicoke,ON,10.0,518.0,Sedan,64709,1085.0,424.0
+2022 Tesla Model X Plaid AWD,148888,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model X,2022.0,Plaid AWD,2.39,Coquitlam,BC,12.0,504.0,SUV/ Crossover,10400,1044.0,608.0
+2019 Tesla Model 3 Performance AWD,32888,All-Wheel Drive,Red,Model 3,2019.0,Performance AWD,2.045,Richmond,BC,10.0,499.0,Sedan,122000,1085.0,424.0
+2020 Tesla Model 3 Long Range AWD,32980,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2020.0,Long Range AWD,1.945,St.-Hubert,QC,10.0,518.0,Sedan,84505,1085.0,424.0
+2020 Tesla Model 3,29800,unknown,Black,Model 3,2020.0,unknown,1.9,London,ON,10.0,430.0,Sedan,98000,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,27998,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2021.0,Standard Range Plus RWD,1.9,Carignan,QC,10.0,430.0,Sedan,104233,1085.0,424.0
+2021 Tesla Model Y Long Range AWD,47995,All-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2021.0,Long Range AWD,1.945,Quebec,QC,10.0,509.0,SUV/ Crossover,49464,1062.0,1925.0
+2023 Tesla Model Y RWD,43999,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2023.0,RWD,1.945,Longueuil,QC,9.4,418.0,SUV/ Crossover,30514,1064.0,971.0
+2022 Tesla Model Y Long Range AWD,44990,All-Wheel Drive,Black,Model Y,2022.0,Long Range AWD,1.945,Etobicoke,ON,10.0,531.0,SUV/ Crossover,81007,1062.0,971.0
+2020 Tesla Model 3 Standard Range Plus RWD,31900,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Surrey,BC,10.0,402.0,Sedan,97054,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,36980,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Vancouver,BC,10.0,402.0,Sedan,36788,1085.0,424.0
+2021 Tesla Model Y Standard Range RWD,36995,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2021.0,Standard Range RWD,1.945,Salaberry-de-Valleyfield,QC,10.0,393.0,SUV/ Crossover,85381,1062.0,1925.0
+2020 Tesla Model 3 Long Range AWD,32998,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Long Range AWD,1.945,Carignan,QC,10.0,518.0,Sedan,76145,1085.0,424.0
+2022 Tesla Model 3 Long Range AWD,30490,All-Wheel Drive,Black,Model 3,2022.0,Long Range AWD,1.9,Fenwick,ON,10.0,538.0,Sedan,152000,1085.0,648.0
+2019 Tesla Model 3 Performance AWD,37750,All-Wheel Drive,Black,Model 3,2019.0,Performance AWD,2.045,Sidney,BC,10.0,499.0,Sedan,62700,1085.0,424.0
+2023 Tesla Model Y RWD,44390,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2023.0,RWD,1.945,Toronto,ON,9.4,418.0,SUV/ Crossover,21400,1064.0,971.0
+2022 Tesla Model Y Long Range AWD,52690,All-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2022.0,Long Range AWD,1.945,Etobicoke,ON,10.0,531.0,SUV/ Crossover,24240,1062.0,971.0
+2020 Tesla Model 3 Standard Range Plus RWD,29800,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Coquitlam,BC,10.0,402.0,Sedan,124000,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,34699,Rear-Wheel Drive,Silver,Model 3,2020.0,Standard Range Plus RWD,1.9,Winnipeg,MB,10.0,402.0,Sedan,74311,1085.0,424.0
+2018 Tesla Model 3 Long Range RWD,28995,Rear-Wheel Drive,Red,Model 3,2018.0,Long Range RWD,1.9,Calgary,AB,12.0,499.0,Sedan,157446,1085.0,424.0
+2014 Tesla Model S P85 RWD,24990,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model S,2014.0,P85 RWD,2.655,Hillsburgh,ON,12.0,407.0,Sedan,152100,1085.0,894.0
+2022 Tesla Model Y Long Range AWD,45888,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2022.0,Long Range AWD,1.945,Concord,ON,10.0,531.0,SUV/ Crossover,76372,1062.0,971.0
+2021 Tesla Model 3 Standard Range Plus RWD,35900,Rear-Wheel Drive,Red,Model 3,2021.0,Standard Range Plus RWD,1.9,London,ON,10.0,430.0,Sedan,45000,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,33888,Rear-Wheel Drive,Black,Model 3,2020.0,Standard Range Plus RWD,1.9,Burnaby,BC,10.0,402.0,Sedan,67375,1085.0,424.0
+2020 Tesla Model 3,26800,unknown,White(/Pearl White Multi-Coat),Model 3,2020.0,unknown,1.9,London,ON,10.0,430.0,Sedan,135000,1085.0,424.0
+2020 Tesla Model 3 Long Range AWD,32490,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Long Range AWD,1.945,Boucherville,QC,10.0,518.0,Sedan,83965,1085.0,424.0
+2017 Tesla Model X 75D AWD,39995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model X,2017.0,75D AWD,2.555,Toronto,ON,12.0,383.0,SUV/ Crossover,124000,1046.0,736.0
+2018 Tesla Model 3 Long Range AWD,34800,All-Wheel Drive,Red,Model 3,2018.0,Long Range AWD,2.045,Richmond,BC,10.0,499.0,Sedan,52000,1085.0,424.0
+2020 Tesla Model 3 Long Range AWD,34449,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Long Range AWD,1.945,Brampton,ON,10.0,518.0,Sedan,69350,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,32888,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Maple Ridge,BC,10.0,402.0,Sedan,86000,1085.0,424.0
+2018 Tesla Model 3 Long Range RWD,38500,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2018.0,Long Range RWD,1.9,Sidney,BC,12.0,499.0,Sedan,51804,1085.0,424.0
+2022 Tesla Model 3 Long Range AWD,36499,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,Long Range AWD,1.9,Laval,QC,10.0,538.0,Sedan,98763,1085.0,648.0
+2019 Tesla Model 3 Long Range RWD,31888,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2019.0,Long Range RWD,1.9,Surrey,BC,10.0,499.0,Sedan,105249,1085.0,424.0
+2022 Tesla Model X AWD,97888,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model X,2022.0,AWD,2.29,Coquitlam,BC,12.0,534.0,SUV/ Crossover,48297,1044.0,1231.0
+2016 Tesla Model X 75D AWD,50950,All-Wheel Drive,Blue(/Deep Blue Metallic),Model X,2016.0,75D AWD,2.555,Richmond,BC,12.0,383.0,SUV/ Crossover,91000,1046.0,736.0
+2021 Tesla Model Y Standard Range RWD,33995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2021.0,Standard Range RWD,1.945,Toronto,ON,10.0,393.0,SUV/ Crossover,128793,1062.0,1925.0
+2018 Tesla Model 3 Long Range AWD,29900,All-Wheel Drive,Black,Model 3,2018.0,Long Range AWD,2.045,Nobleton,ON,10.0,499.0,Sedan,95348,1085.0,424.0
+2022 Tesla Model Y Long Range AWD,52490,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2022.0,Long Range AWD,1.945,Etobicoke,ON,10.0,531.0,SUV/ Crossover,27749,1062.0,971.0
+2019 Tesla Model 3 Standard Plus RWD,32995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2019.0,Standard Plus RWD,1.9,Penticton,BC,10.0,386.0,Sedan,56471,1085.0,424.0
+2022 Tesla Model Y Long Range AWD,49990,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2022.0,Long Range AWD,1.945,Etobicoke,ON,10.0,531.0,SUV/ Crossover,46578,1062.0,971.0
+2020 Tesla Model 3 Standard Range Plus RWD,31995,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2020.0,Standard Range Plus RWD,1.9,Hilden,NS,10.0,402.0,Sedan,84000,1085.0,424.0
+2022 Tesla Model Y Long Range AWD,42888,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2022.0,Long Range AWD,1.945,Concord,ON,10.0,531.0,SUV/ Crossover,101047,1062.0,971.0
+2022 Tesla Model Y Long Range AWD,57900,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2022.0,Long Range AWD,1.945,Vancouver,BC,10.0,531.0,SUV/ Crossover,18500,1062.0,971.0
+2021 Tesla Model Y Long Range AWD,49280,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2021.0,Long Range AWD,1.945,Sidney,BC,10.0,509.0,SUV/ Crossover,72000,1062.0,1925.0
+2020 Tesla Model 3 Long Range AWD,36950,All-Wheel Drive,Red,Model 3,2020.0,Long Range AWD,1.945,Richmond,BC,10.0,518.0,Sedan,86500,1085.0,424.0
+2022 Tesla Model 3 Long Range AWD,59950,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,Long Range AWD,1.9,North Vancouver,BC,10.0,538.0,Sedan,300,1085.0,648.0
+2016 Tesla Model S,36999,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model S,2016.0,75D AWD,2.3,Toronto,ON,12.0,435.0,Sedan,77000,1085.0,894.0
+2014 Tesla Model S P85 RWD,39800,Rear-Wheel Drive,Red,Model S,2014.0,P85 RWD,2.655,Langley City,BC,12.0,407.0,Sedan,76000,1085.0,894.0
+2015 Tesla Model S 70D AWD,21999,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model S,2015.0,70D AWD,2.3,North York,ON,12.0,386.0,Sedan,147000,1085.0,894.0
+2015 Tesla Model S 70D AWD,17995,All-Wheel Drive,Blue(/Deep Blue Metallic),Model S,2015.0,70D AWD,2.3,Saint-Sulpice,QC,12.0,386.0,Sedan,216088,1085.0,894.0
+2015 Tesla Model S 70D AWD,23888,All-Wheel Drive,White(/Pearl White Multi-Coat),Model S,2015.0,70D AWD,2.3,Coquitlam,BC,12.0,386.0,Sedan,159310,1085.0,894.0
+2014 Tesla Model S P85 RWD,24999,Rear-Wheel Drive,Black,Model S,2014.0,P85 RWD,2.655,Burnaby,BC,12.0,407.0,Sedan,120519,1085.0,894.0
+2021 Tesla Model Y Long Range AWD,39999,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2021.0,Long Range AWD,1.945,Calgary,AB,10.0,509.0,SUV/ Crossover,78645,1062.0,1925.0
+2018 Tesla Model 3 Long Range RWD,23900,Rear-Wheel Drive,Black,Model 3,2018.0,Long Range RWD,1.9,North York,ON,12.0,499.0,Sedan,137000,1085.0,424.0
+2015 Tesla Model S 70D AWD,25900,All-Wheel Drive,White(/Pearl White Multi-Coat),Model S,2015.0,70D AWD,2.3,Coquitlam,BC,12.0,386.0,Sedan,128120,1085.0,894.0
+2023 Tesla Model 3 RWD,35999,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2023.0,RWD,1.9,Calgary,AB,10.4,438.0,Sedan,4918,1085.0,648.0
+2019 Tesla Model S Performance AWD with Ludicrous Mode,63995,All-Wheel Drive,Red,Model S,2019.0,Performance AWD with Ludicrous Mode,2.3,Milton,ON,12.0,507.0,Sedan,69009,1085.0,744.0
+2016 Tesla Model S,26985,unknown,Black,Model S,2016.0,unknown,2.3,Victoria,BC,12.0,435.0,Sedan,201531,1085.0,894.0
+2021 Tesla Model 3 Standard Range Plus RWD,25895,Rear-Wheel Drive,Black,Model 3,2021.0,Standard Range Plus RWD,1.9,Langley,BC,10.0,430.0,Sedan,87000,1085.0,424.0
+2015 Tesla Model S 70D AWD,42888,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model S,2015.0,70D AWD,2.3,Ottawa,ON,12.0,386.0,Sedan,142105,1085.0,894.0
+2022 Tesla Model 3 RWD,34995,Rear-Wheel Drive,Red,Model 3,2022.0,RWD,1.9,Toronto,ON,10.0,430.0,Sedan,55000,1085.0,648.0
+2020 Tesla Model 3 Standard Range Plus RWD,22990,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,New Westminster,BC,10.0,402.0,Sedan,117000,1085.0,424.0
+2015 Tesla Model S 70D AWD,19999,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model S,2015.0,70D AWD,2.3,Pickering,ON,12.0,386.0,Sedan,173028,1085.0,894.0
+2023 Tesla Model 3 RWD,33995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2023.0,RWD,1.9,Toronto,ON,10.4,438.0,Sedan,123000,1085.0,648.0
+2022 Tesla Model 3 RWD,29995,Rear-Wheel Drive,Red,Model 3,2022.0,RWD,1.9,Toronto,ON,10.0,430.0,Sedan,131000,1085.0,648.0
+2019 Tesla Model 3 Standard RWD,24999,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2019.0,Standard RWD,1.9,Calgary,AB,10.0,354.0,Sedan,83834,1085.0,424.0
+2019 Tesla Model 3 Long Range AWD,28999,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2019.0,Long Range AWD,2.045,Calgary,AB,10.0,499.0,Sedan,56813,1085.0,424.0
+2016 Tesla Model S 90D AWD,69995,All-Wheel Drive,Black,Model S,2016.0,90D AWD,2.255,Guelph,ON,12.0,473.0,Sedan,59990,1085.0,894.0
+2022 Tesla Model Y Long Range AWD,71995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2022.0,Long Range AWD,1.945,St. Marys,ON,10.0,531.0,SUV/ Crossover,8180,1062.0,971.0
+2017 Tesla Model X P100D AWD,99895,All-Wheel Drive,Red,Model X,2017.0,P100D AWD,2.765,Saint-Albert,QC,12.0,465.0,SUV/ Crossover,125000,1046.0,736.0
+2019 Tesla Model 3 Standard Plus RWD,38999,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2019.0,Standard Plus RWD,1.9,Scarborough,ON,10.0,386.0,Sedan,88219,1085.0,424.0
+2022 Tesla Model 3 Long Range AWD,89888,All-Wheel Drive,Black,Model 3,2022.0,Long Range AWD,1.9,Newmarket,ON,10.0,538.0,Sedan,4860,1085.0,648.0
+2018 Tesla Model 3 Performance AWD,38950,All-Wheel Drive,Red,Model 3,2018.0,Performance AWD,2.045,Richmond,BC,10.0,499.0,Sedan,53100,1085.0,424.0
+2022 Tesla Model 3 Long Range AWD,59991,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,Long Range AWD,1.9,Sudbury,ON,10.0,538.0,Sedan,35000,1085.0,648.0
+2013 Tesla Model S 60 RWD,27888,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model S,2013.0,60 RWD,2.455,Vancouver,BC,10.0,335.0,Sedan,133200,1085.0,894.0
+2019 Tesla Model 3 Standard Plus RWD,42888,Rear-Wheel Drive,Black,Model 3,2019.0,Standard Plus RWD,1.9,Vancouver,BC,10.0,386.0,Sedan,91900,1085.0,424.0
+2020 Tesla Model 3 Standard Range AWD,45888,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range AWD,1.9,Medicine Hat,AB,10.0,354.0,Sedan,60120,1085.0,424.0
+2020 Tesla Model 3 Long Range AWD,44888,All-Wheel Drive,Black,Model 3,2020.0,Long Range AWD,1.9,Surrey,BC,10.0,518.0,Sedan,116725,1085.0,424.0
+2023 Tesla Model Y RWD,52010,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2023.0,RWD,1.945,Waterloo,ON,9.4,418.0,SUV/ Crossover,32017,1064.0,971.0
+2017 Tesla Model X P100D AWD,53200,All-Wheel Drive,Silver,Model X,2017.0,P100D AWD,2.765,Coquitlam,BC,12.0,465.0,SUV/ Crossover,94117,1046.0,736.0
+2020 Tesla Model 3 Long Range AWD,43850,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Long Range AWD,1.9,Langley,BC,10.0,518.0,Sedan,105234,1085.0,424.0
+2020 Tesla Model 3 Standard Range AWD,27995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range AWD,1.9,Toronto,ON,10.0,354.0,Sedan,137000,1085.0,424.0
+2023 Tesla Model S Plaid AWD,116999,All-Wheel Drive,White(/Pearl White Multi-Coat),Model S,2023.0,Plaid AWD,1.945,Mississauga,ON,15.0,637.0,Sedan,27004,1077.0,798.0
+2021 Tesla Model 3 Standard Range Plus RWD,69888,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,New Westminster,BC,10.0,430.0,Sedan,15820,1085.0,424.0
+2023 Tesla Model Y,59888,unknown,White(/Pearl White Multi-Coat),Model Y,2023.0,unknown,1.945,Calgary,AB,10.0,509.0,SUV/ Crossover,37786,1062.0,971.0
+2021 Tesla Model 3 Standard Range Plus RWD,35895,Rear-Wheel Drive,Red,Model 3,2021.0,Standard Range Plus RWD,1.9,Scarborough,ON,10.0,430.0,Sedan,17687,1085.0,424.0
+2022 Tesla Model 3 RWD,41200,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,Port Coquitlam,BC,10.0,430.0,Sedan,34782,1085.0,648.0
+2022 Tesla Model 3 RWD,40800,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,Richmond,BC,10.0,430.0,Sedan,38772,1085.0,648.0
+2023 Tesla Model 3 RWD,44900,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2023.0,RWD,1.9,Vancouver,BC,10.4,438.0,Sedan,26855,1085.0,648.0
+2018 Tesla Model 3 Performance AWD,24994,All-Wheel Drive,Black,Model 3,2018.0,Performance AWD,2.045,Concord,ON,10.0,499.0,Sedan,129000,1085.0,424.0
+2021 Tesla Model Y Long Range AWD,48995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2021.0,Long Range AWD,1.945,Mississauga,ON,10.0,509.0,SUV/ Crossover,45235,1062.0,1925.0
+2021 Tesla Model Y Performance AWD,53995,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2021.0,Performance AWD,1.945,Abbotsford,BC,10.0,507.0,SUV/ Crossover,66635,1062.0,1925.0
+2023 Tesla Model Y Long Range AWD,52800,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2023.0,Long Range AWD,1.945,Richmond,BC,11.5,531.0,SUV/ Crossover,58500,1062.0,971.0
+2021 Tesla Model 3 Standard Range Plus RWD,32995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Toronto,ON,10.0,430.0,Sedan,67025,1085.0,424.0
+2022 Tesla Model Y Long Range AWD,49888,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2022.0,Long Range AWD,1.945,Burnaby,BC,10.0,531.0,SUV/ Crossover,85707,1062.0,971.0
+2022 Tesla Model Y Long Range AWD,47984,All-Wheel Drive,Red,Model Y,2022.0,Long Range AWD,1.945,Cowansville,QC,10.0,531.0,SUV/ Crossover,60571,1062.0,971.0
+2020 Tesla Model Y Long Range AWD,39888,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2020.0,Long Range AWD,1.99,Concord,ON,10.0,509.0,SUV/ Crossover,109289,1062.0,1925.0
+2023 Tesla Model 3 RWD,44980,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2023.0,RWD,1.9,Vancouver,BC,10.4,438.0,Sedan,4246,1085.0,648.0
+2022 Tesla Model Y Performance AWD,51495,All-Wheel Drive,Black,Model Y,2022.0,Performance AWD,1.945,Saint-Jean-sur-Richelieu,QC,10.0,488.0,SUV/ Crossover,55240,1062.0,971.0
+2022 Tesla Model S AWD,81888,All-Wheel Drive,Black,Model S,2022.0,AWD,1.945,Coquitlam,BC,15.0,652.0,Sedan,36987,1077.0,798.0
+2022 Tesla Model 3 Long Range AWD,49888,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,Long Range AWD,1.9,Edmonton,AB,10.0,538.0,Sedan,41000,1085.0,648.0
+2022 Tesla Model 3 Performance AWD,55850,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2022.0,Performance AWD,1.9,Langley,BC,10.0,507.0,Sedan,38158,1085.0,648.0
+2021 Tesla Model 3 Standard Range Plus RWD,36995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Abbotsford,BC,10.0,430.0,Sedan,67955,1085.0,424.0
+2023 Tesla Model 3 RWD,41995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2023.0,RWD,1.9,Surrey,BC,10.4,438.0,Sedan,33827,1085.0,648.0
+2017 Tesla Model X 90D AWD,43900,All-Wheel Drive,Silver,Model X,2017.0,90D AWD,2.555,Coquitlam,BC,12.0,414.0,SUV/ Crossover,269325,1046.0,736.0
+2023 Tesla Model X Plaid AWD,115800,All-Wheel Drive,White(/Pearl White Multi-Coat),Model X,2023.0,Plaid AWD,2.39,North York,ON,14.0,536.0,SUV/ Crossover,8700,1044.0,608.0
+2021 Tesla Model S Long Range AWD,69900,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model S,2021.0,Long Range AWD,1.945,Concord,ON,15.0,652.0,Sedan,31388,1085.0,894.0
+2021 Tesla Model 3 Long Range AWD,31990,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Long Range AWD,1.9,Etobicoke,ON,10.0,568.0,Sedan,118280,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,32995,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2020.0,Standard Range Plus RWD,1.9,Toronto,ON,10.0,402.0,Sedan,51000,1085.0,424.0
+2019 Tesla Model X 100D AWD,63995,All-Wheel Drive,Black,Model X,2019.0,100D AWD,2.655,Richmond,BC,12.0,475.0,SUV/ Crossover,95934,1046.0,543.0
+2020 Tesla Model 3 Long Range AWD,34999,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Long Range AWD,1.945,London,ON,10.0,518.0,Sedan,90000,1085.0,424.0
+2022 Tesla Model 3 RWD,41495,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,Victoria,BC,10.0,430.0,Sedan,27620,1085.0,648.0
+2022 Tesla Model Y Performance AWD,57995,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2022.0,Performance AWD,2.09,Sutton West,ON,10.0,488.0,SUV/ Crossover,35223,1062.0,971.0
+2021 Tesla Model 3 Standard Range Plus RWD,34388,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2021.0,Standard Range Plus RWD,1.9,Toronto,ON,10.0,430.0,Sedan,45500,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,35888,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Nanaimo,BC,10.0,430.0,Sedan,78498,1085.0,424.0
+2019 Tesla Model 3 Standard Plus RWD,29995,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2019.0,Standard Plus RWD,1.9,Toronto,ON,10.0,386.0,Sedan,70000,1085.0,424.0
+2019 Tesla Model 3 Standard RWD,22995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2019.0,Standard RWD,1.9,Toronto,ON,10.0,354.0,Sedan,152000,1085.0,424.0
+2022 Tesla Model Y Performance AWD,55999,All-Wheel Drive,Black,Model Y,2022.0,Performance AWD,2.09,Montréal,QC,10.0,488.0,SUV/ Crossover,25000,1062.0,971.0
+2020 Tesla Model 3 Long Range AWD,35888,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Long Range AWD,1.945,Vancouver,BC,10.0,518.0,Sedan,94244,1085.0,424.0
+2012 Tesla Model S Performance RWD,34999,Rear-Wheel Drive,Silver,Model S,2012.0,Performance RWD,2.655,Burnaby,BC,12.0,407.0,Sedan,20432,1085.0,894.0
+2022 Tesla Model 3 RWD,36995,Rear-Wheel Drive,Black,Model 3,2022.0,RWD,1.9,North Vancouver,BC,10.0,430.0,Sedan,94250,1085.0,648.0
+2021 Tesla Model 3 Standard Range Plus RWD,25300,Rear-Wheel Drive,Red,Model 3,2021.0,Standard Range Plus RWD,1.9,London,ON,10.0,430.0,Sedan,187000,1085.0,424.0
+2022 Tesla Model 3 Performance AWD,48995,All-Wheel Drive,Silver,Model 3,2022.0,Performance AWD,2.09,Cowansville,QC,10.0,507.0,Sedan,49646,1085.0,648.0
+2022 Tesla Model 3 RWD,36995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,Magog,QC,10.0,430.0,Sedan,39727,1085.0,648.0
+2018 Tesla Model X 100D AWD,59995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model X,2018.0,100D AWD,2.655,Milton,ON,12.0,475.0,SUV/ Crossover,114784,1046.0,736.0
+2023 Tesla Model Y Performance AWD,58619,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2023.0,Performance AWD,2.09,Whitby,ON,11.8,488.0,SUV/ Crossover,18018,1062.0,481.0
+2023 Tesla Model 3 RWD,37890,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2023.0,RWD,1.9,Levis,QC,10.4,438.0,Sedan,58887,1085.0,648.0
+2018 Tesla Model S 100D AWD,49995,All-Wheel Drive,Black,Model S,2018.0,100D AWD,2.3,Laval,QC,12.0,539.0,Sedan,139771,1085.0,744.0
+2017 Tesla Model S P100D AWD,58900,All-Wheel Drive,White(/Pearl White Multi-Coat),Model S,2017.0,P100D AWD,2.42,Chilliwack,BC,12.0,507.0,Sedan,89600,1085.0,894.0
+2020 Tesla Model Y Long Range AWD,44881,All-Wheel Drive,Black,Model Y,2020.0,Long Range AWD,1.99,Langley,BC,10.0,509.0,SUV/ Crossover,86000,1062.0,1925.0
+2023 Tesla Model Y,54888,unknown,Silver,Model Y,2023.0,unknown,1.945,Smiths Falls,ON,10.0,509.0,SUV/ Crossover,34000,1062.0,971.0
+2020 Tesla Model X Long Range AWD,77998,All-Wheel Drive,White(/Pearl White Multi-Coat),Model X,2020.0,Long Range AWD,2.445,Kamloops,BC,12.0,528.0,SUV/ Crossover,36542,1046.0,543.0
+2020 Tesla Model 3 Standard Range Plus RWD,31995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Toronto,ON,10.0,402.0,Sedan,67025,1085.0,424.0
+2020 Tesla Model Y Long Range AWD,42995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2020.0,Long Range AWD,1.99,Trois-Rivieres,QC,10.0,509.0,SUV/ Crossover,88000,1062.0,1925.0
+2019 Tesla Model 3 Long Range AWD,29880,All-Wheel Drive,Black,Model 3,2019.0,Long Range AWD,1.9,Grimsby,ON,10.0,499.0,Sedan,126236,1085.0,424.0
+2018 Tesla Model 3 Long Range AWD,26495,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2018.0,Long Range AWD,2.045,Hamilton,ON,10.0,499.0,Sedan,169244,1085.0,424.0
+2021 Tesla Model Y Standard Range RWD,36799,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2021.0,Standard Range RWD,1.945,Toronto,ON,10.0,393.0,SUV/ Crossover,112000,1062.0,1925.0
+2022 Tesla Model S Plaid AWD,129991,All-Wheel Drive,White(/Pearl White Multi-Coat),Model S,2022.0,Plaid AWD,2.3,Sudbury,ON,15.0,637.0,Sedan,30000,1077.0,798.0
+2020 Tesla Model 3 Performance AWD,38388,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Performance AWD,1.945,Toronto,ON,10.0,481.0,Sedan,98000,1085.0,424.0
+2014 Tesla Model S P85 RWD,24888,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model S,2014.0,P85 RWD,2.655,Coquitlam,BC,12.0,407.0,Sedan,189101,1085.0,894.0
+2022 Tesla Model 3 RWD,35978,Rear-Wheel Drive,Black,Model 3,2022.0,RWD,1.9,Shawinigan,QC,10.0,430.0,Sedan,57123,1085.0,648.0
+2021 Tesla Model Y Performance AWD,51396,All-Wheel Drive,Red,Model Y,2021.0,Performance AWD,2.09,Wetaskiwin,AB,10.0,507.0,SUV/ Crossover,95628,1062.0,1925.0
+2019 Tesla Model X,69999,All-Wheel Drive,White(/Pearl White Multi-Coat),Model X,2019.0,Long Range AWD,2.555,Toronto,ON,12.0,475.0,SUV/ Crossover,98000,1046.0,736.0
+2023 Tesla Model Y RWD,47995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2023.0,RWD,1.945,North Vancouver,BC,9.4,418.0,SUV/ Crossover,32450,1064.0,971.0
+2021 Tesla Model 3 Standard Range Plus RWD,34999,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Kentville,NS,10.0,430.0,Sedan,95000,1085.0,424.0
+2022 Tesla Model Y Long Range AWD,47990,All-Wheel Drive,Black,Model Y,2022.0,Long Range AWD,1.945,Oakville,ON,10.0,531.0,SUV/ Crossover,76034,1062.0,971.0
+2020 Tesla Model X Long Range Plus AWD,71800,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model X,2020.0,Long Range Plus AWD,2.245,Richmond,BC,12.0,565.0,SUV/ Crossover,65000,1045.0,736.0
+2022 Tesla Model 3 RWD,39918,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,Calgary,AB,10.0,430.0,Sedan,35314,1085.0,648.0
+2020 Tesla Model 3 Standard Range Plus RWD,31995,Rear-Wheel Drive,Black,Model 3,2020.0,Standard Range Plus RWD,1.9,Hilden,NS,10.0,402.0,Sedan,92000,1085.0,424.0
+2019 Tesla Model 3 Standard RWD,23990,Rear-Wheel Drive,Red,Model 3,2019.0,Standard RWD,1.9,Etobicoke,ON,10.0,354.0,Sedan,136000,1085.0,424.0
+2022 Tesla Model Y Long Range AWD,48973,All-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2022.0,Long Range AWD,1.945,Strathmore,AB,10.0,531.0,SUV/ Crossover,53312,1062.0,971.0
+2020 Tesla Model 3 Standard Range Plus RWD,29888,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2020.0,Standard Range Plus RWD,1.9,Concord,ON,10.0,402.0,Sedan,85895,1085.0,424.0
+2019 Tesla Model 3 Long Range RWD,19999,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2019.0,Long Range RWD,1.9,Halton Hills,ON,10.0,499.0,Sedan,220586,1085.0,424.0
+2020 Tesla Model 3,32800,unknown,White(/Pearl White Multi-Coat),Model 3,2020.0,unknown,1.9,London,ON,10.0,430.0,Sedan,74000,1085.0,424.0
+2016 Tesla Model S 90D AWD,59500,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model S,2016.0,90D AWD,2.255,Coquitlam,BC,12.0,473.0,Sedan,36900,1085.0,894.0
+2020 Tesla Model 3,26800,unknown,White(/Pearl White Multi-Coat),Model 3,2020.0,unknown,1.9,London,ON,10.0,430.0,Sedan,146000,1085.0,424.0
+2019 Tesla Model 3 Long Range AWD,34988,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2019.0,Long Range AWD,2.045,Calgary,AB,10.0,499.0,Sedan,106079,1085.0,424.0
+2019 Tesla Model 3 Standard Plus RWD,33995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2019.0,Standard Plus RWD,1.9,Abbotsford,BC,10.0,386.0,Sedan,62452,1085.0,424.0
+2020 Tesla Model 3 Standard Range AWD,29900,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range AWD,1.9,Duncan,BC,10.0,354.0,Sedan,90484,1085.0,424.0
+2023 Tesla Model 3 RWD,39888,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2023.0,RWD,1.9,Toronto,ON,10.4,438.0,Sedan,27000,1085.0,648.0
+2020 Tesla Model 3 Standard Range Plus RWD,37888,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Surrey,BC,10.0,402.0,Sedan,35692,1085.0,424.0
+2022 Tesla Model 3 Long Range AWD,44988,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2022.0,Long Range AWD,1.9,Victoriaville,QC,10.0,538.0,Sedan,51000,1085.0,648.0
+2019 Tesla Model 3 Standard Plus RWD,23800,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2019.0,Standard Plus RWD,1.9,London,ON,10.0,386.0,Sedan,187000,1085.0,424.0
+2018 Tesla Model 3 Long Range AWD,30888,All-Wheel Drive,Black,Model 3,2018.0,Long Range AWD,2.045,Toronto,ON,10.0,499.0,Sedan,64000,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,32995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Mississauga,ON,10.0,430.0,Sedan,70639,1085.0,424.0
+2022 Tesla Model 3 Long Range AWD,40888,All-Wheel Drive,Red,Model 3,2022.0,Long Range AWD,1.9,Toronto,ON,10.0,538.0,Sedan,79900,1085.0,648.0
+2022 Tesla Model 3 Long Range AWD,40888,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2022.0,Long Range AWD,1.9,North York,ON,10.0,538.0,Sedan,80079,1085.0,648.0
+2018 Tesla Model X 100D AWD,55000,All-Wheel Drive,Blue(/Deep Blue Metallic),Model X,2018.0,100D AWD,2.655,Coquitlam,BC,12.0,475.0,SUV/ Crossover,157078,1046.0,736.0
+2023 Tesla Model Y RWD,40990,Rear-Wheel Drive,Black,Model Y,2023.0,RWD,1.945,Etobicoke,ON,9.4,418.0,SUV/ Crossover,66019,1064.0,971.0
+2021 Tesla Model 3 Standard Range Plus RWD,30995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Laval,QC,10.0,430.0,Sedan,94487,1085.0,424.0
+2023 Tesla Model Y RWD,49700,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2023.0,RWD,1.945,Surrey,BC,9.4,418.0,SUV/ Crossover,12401,1064.0,971.0
+2015 Tesla Model S 85D AWD,29995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model S,2015.0,85D AWD,2.365,Richmond Hill,ON,12.0,435.0,Sedan,136000,1085.0,894.0
+2022 Tesla Model Y Long Range AWD,59950,All-Wheel Drive,Red,Model Y,2022.0,Long Range AWD,1.945,North Vancouver,BC,10.0,531.0,SUV/ Crossover,28000,1062.0,971.0
+2020 Tesla Model 3 Standard Range Plus RWD,27995,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2020.0,Standard Range Plus RWD,1.9,Toronto,ON,10.0,402.0,Sedan,131000,1085.0,424.0
+2022 Tesla Model 3 RWD,43900,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,Surrey,BC,10.0,430.0,Sedan,5000,1085.0,648.0
+2022 Tesla Model Y Long Range AWD,49988,All-Wheel Drive,Black,Model Y,2022.0,Long Range AWD,1.945,Burlington,ON,10.0,531.0,SUV/ Crossover,76341,1062.0,971.0
+2021 Tesla Model X Long Range Plus AWD,76800,All-Wheel Drive,White(/Pearl White Multi-Coat),Model X,2021.0,Long Range Plus AWD,2.245,North York,ON,12.0,565.0,SUV/ Crossover,66000,1046.0,543.0
+2020 Tesla Model 3 Long Range AWD,34995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Long Range AWD,1.945,Longueuil,QC,10.0,518.0,Sedan,74920,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,29500,Rear-Wheel Drive,Black,Model 3,2020.0,Standard Range Plus RWD,1.9,Winnipeg,MB,10.0,402.0,Sedan,162654,1085.0,424.0
+2018 Tesla Model 3 Performance AWD,30998,All-Wheel Drive,Black,Model 3,2018.0,Performance AWD,2.045,Carignan,QC,10.0,499.0,Sedan,38548,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,36888,Rear-Wheel Drive,Black,Model 3,2021.0,Standard Range Plus RWD,1.9,Burnaby,BC,10.0,430.0,Sedan,69128,1085.0,424.0
+2018 Tesla Model 3 Long Range AWD,33995,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2018.0,Long Range AWD,2.045,Ottawa,ON,10.0,499.0,Sedan,76650,1085.0,424.0
+2023 Tesla Model 3 RWD,35990,Rear-Wheel Drive,Black,Model 3,2023.0,RWD,1.9,Scarborough,ON,10.4,438.0,Sedan,73511,1085.0,648.0
+2020 Tesla Model 3 Long Range AWD,33999,All-Wheel Drive,Black,Model 3,2020.0,Long Range AWD,1.945,Mississauga,ON,10.0,518.0,Sedan,74700,1085.0,424.0
+2023 Tesla Model Y Long Range AWD,51888,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2023.0,Long Range AWD,1.945,Mississauga,ON,11.5,531.0,SUV/ Crossover,49408,1062.0,971.0
+2022 Tesla Model X AWD,98800,All-Wheel Drive,Silver,Model X,2022.0,AWD,2.29,Richmond,BC,12.0,534.0,SUV/ Crossover,56169,1044.0,1231.0
+2021 Tesla Model 3 Standard Range Plus RWD,35995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Toronto,ON,10.0,430.0,Sedan,49000,1085.0,424.0
+2022 Tesla Model 3 Long Range AWD,50495,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,Long Range AWD,1.9,Tillsonburg,ON,10.0,538.0,Sedan,23914,1085.0,648.0
+2021 Tesla Model 3 Performance AWD,39900,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Performance AWD,2.09,Oakville,ON,10.0,507.0,Sedan,88000,1085.0,424.0
+2023 Tesla Model Y RWD,46495,Rear-Wheel Drive,Silver,Model Y,2023.0,RWD,1.945,Quebec,QC,9.4,418.0,SUV/ Crossover,22575,1064.0,971.0
+2023 Tesla Model 3 RWD,46906,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2023.0,RWD,1.9,Richmond,BC,10.4,438.0,Sedan,7114,1085.0,648.0
+2018 Tesla Model X,59999,unknown,White(/Pearl White Multi-Coat),Model X,2018.0,unknown,2.555,Richmond,BC,12.0,475.0,SUV/ Crossover,110058,1046.0,736.0
+2023 Tesla Model 3 Long Range AWD,48450,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2023.0,Long Range AWD,1.9,Montréal,QC,11.5,576.0,Sedan,16000,1085.0,648.0
+2020 Tesla Model 3 Standard Range Plus RWD,30900,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2020.0,Standard Range Plus RWD,1.9,Sidney,BC,10.0,402.0,Sedan,136309,1085.0,424.0
+2017 Tesla Model S 100D AWD,54980,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model S,2017.0,100D AWD,2.3,North Vancouver,BC,12.0,539.0,Sedan,67900,1085.0,804.0
+2021 Tesla Model 3 Standard Range Plus RWD,36995,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2021.0,Standard Range Plus RWD,1.9,North York,ON,10.0,430.0,Sedan,25842,1085.0,424.0
+2021 Tesla Model Y Standard Range RWD,35988,Rear-Wheel Drive,Black,Model Y,2021.0,Standard Range RWD,1.945,Scarborough,ON,10.0,393.0,SUV/ Crossover,139998,1062.0,1925.0
+2020 Tesla Model 3 Long Range AWD,39900,All-Wheel Drive,Red,Model 3,2020.0,Long Range AWD,1.945,Vancouver,BC,10.0,518.0,Sedan,76872,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,32998,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2021.0,Standard Range Plus RWD,1.9,Stratford,ON,10.0,430.0,Sedan,108000,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,36990,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2020.0,Standard Range Plus RWD,1.9,Regina,SK,10.0,402.0,Sedan,65345,1085.0,424.0
+2023 Tesla Model 3 RWD,39995,Rear-Wheel Drive,Red,Model 3,2023.0,RWD,1.9,Hilden,NS,10.4,438.0,Sedan,55000,1085.0,648.0
+2020 Tesla Model Y Long Range AWD,43995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2020.0,Long Range AWD,1.99,Salaberry-de-Valleyfield,QC,10.0,509.0,SUV/ Crossover,60229,1062.0,1925.0
+2023 Tesla Model 3 RWD,39800,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2023.0,RWD,1.9,London,ON,10.4,438.0,Sedan,58000,1085.0,648.0
+2021 Tesla Model 3 Performance AWD,46900,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Performance AWD,2.09,Vancouver,BC,10.0,507.0,Sedan,83226,1085.0,424.0
+2022 Tesla Model Y Performance AWD,54800,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2022.0,Performance AWD,2.09,Richmond,BC,10.0,488.0,SUV/ Crossover,61000,1062.0,971.0
+2022 Tesla Model 3 RWD,39995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,North York,ON,10.0,430.0,Sedan,12672,1085.0,648.0
+2020 Tesla Model Y Long Range AWD,42888,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2020.0,Long Range AWD,1.99,Toronto,ON,10.0,509.0,SUV/ Crossover,97300,1062.0,1925.0
+2020 Tesla Model 3 Standard Range Plus RWD,32888,Rear-Wheel Drive,Black,Model 3,2020.0,Standard Range Plus RWD,1.9,Concord,ON,10.0,402.0,Sedan,59995,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,34888,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Concord,ON,10.0,402.0,Sedan,36270,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,32888,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2021.0,Standard Range Plus RWD,1.9,Vancouver,BC,10.0,430.0,Sedan,125861,1085.0,424.0
+2023 Tesla Model S Plaid AWD,113888,All-Wheel Drive,Black,Model S,2023.0,Plaid AWD,1.945,Coquitlam,BC,15.0,637.0,Sedan,21971,1077.0,798.0
+2021 Tesla Model 3 Standard Range Plus RWD,34888,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Toronto,ON,10.0,430.0,Sedan,51000,1085.0,424.0
+2021 Tesla Model S Long Range Plus AWD,65910,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model S,2021.0,Long Range Plus AWD,1.945,Woodbridge,ON,12.0,629.0,Sedan,48427,1085.0,744.0
+2020 Tesla Model 3 Long Range AWD,33888,All-Wheel Drive,Red,Model 3,2020.0,Long Range AWD,1.945,Concord,ON,10.0,518.0,Sedan,97252,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,29888,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range Plus RWD,1.9,Concord,ON,10.0,402.0,Sedan,98206,1085.0,424.0
+2022 Tesla Model 3 RWD,41850,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2022.0,RWD,1.9,Langley,BC,10.0,430.0,Sedan,44136,1085.0,648.0
+2019 Tesla Model 3 Performance AWD,28995,All-Wheel Drive,Red,Model 3,2019.0,Performance AWD,2.045,Milton,ON,10.0,499.0,Sedan,145323,1085.0,424.0
+2022 Tesla Model Y Performance AWD,45888,All-Wheel Drive,Black,Model Y,2022.0,Performance AWD,2.09,Toronto,ON,10.0,488.0,SUV/ Crossover,111700,1062.0,971.0
+2019 Tesla Model S Performance AWD,62995,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model S,2019.0,Performance AWD,2.3,Milton,ON,12.0,507.0,Sedan,93500,1085.0,744.0
+2018 Tesla Model S P100D AWD,57950,All-Wheel Drive,Red,Model S,2018.0,P100D AWD,2.42,Richmond,BC,12.0,507.0,Sedan,85100,1085.0,744.0
+2021 Tesla Model X Long Range Plus AWD,79888,All-Wheel Drive,White(/Pearl White Multi-Coat),Model X,2021.0,Long Range Plus AWD,2.245,Coquitlam,BC,12.0,565.0,SUV/ Crossover,56812,1046.0,543.0
+2022 Tesla Model Y Long Range AWD,44888,All-Wheel Drive,Black,Model Y,2022.0,Long Range AWD,1.945,Toronto,ON,10.0,531.0,SUV/ Crossover,106100,1062.0,971.0
+2024 Tesla Model Y Long Range AWD,65888,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2024.0,Long Range AWD,1.99,Toronto,ON,9.0,499.0,SUV/ Crossover,2000,1062.0,971.0
+2021 Tesla Model Y Standard Range RWD,54888,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2021.0,Standard Range RWD,1.945,Surrey,BC,10.0,393.0,SUV/ Crossover,34499,1062.0,1925.0
+2020 Tesla Model Y Long Range AWD,46990,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2020.0,Long Range AWD,1.945,Surrey,BC,10.0,509.0,SUV/ Crossover,95642,1062.0,1925.0
+2022 Tesla Model Y Long Range AWD,44588,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2022.0,Long Range AWD,1.945,Toronto,ON,10.0,531.0,SUV/ Crossover,110500,1062.0,971.0
+2019 Tesla Model 3 Long Range AWD,42888,All-Wheel Drive,Red,Model 3,2019.0,Long Range AWD,2.045,Houston,BC,10.0,499.0,Sedan,38419,1085.0,424.0
+2021 Tesla Model Y Long Range AWD,48880,All-Wheel Drive,Red,Model Y,2021.0,Long Range AWD,1.945,Sidney,BC,10.0,509.0,SUV/ Crossover,98200,1062.0,1925.0
+2022 Tesla Model 3 RWD,44995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,Leduc,AB,10.0,430.0,Sedan,17101,1085.0,648.0
+2021 Tesla Model 3 Standard Range Plus RWD,38888,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Vancouver,BC,10.0,430.0,Sedan,57241,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,36888,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2020.0,Standard Range Plus RWD,1.9,Surrey,BC,10.0,402.0,Sedan,61150,1085.0,424.0
+2022 Tesla Model 3 RWD,34888,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2022.0,RWD,1.9,Toronto,ON,10.0,430.0,Sedan,91500,1085.0,648.0
+2022 Tesla Model S AWD,77895,All-Wheel Drive,Black,Model S,2022.0,AWD,1.945,Blainville,QC,15.0,652.0,Sedan,56225,1077.0,798.0
+2019 Tesla Model 3 Performance AWD,24995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2019.0,Performance AWD,2.045,Saint-Sulpice,QC,10.0,499.0,Sedan,198058,1085.0,424.0
+2022 Tesla Model Y Performance AWD,52995,All-Wheel Drive,Red,Model Y,2022.0,Performance AWD,2.09,Saint-Jean-sur-Richelieu,QC,10.0,488.0,SUV/ Crossover,69000,1062.0,971.0
+2015 Tesla Model S P85D AWD,33955,All-Wheel Drive,White(/Pearl White Multi-Coat),Model S,2015.0,P85D AWD,2.51,Montreal,QC,12.0,407.0,Sedan,151000,1085.0,894.0
+2020 Tesla Model 3 Long Range AWD,40496,All-Wheel Drive,Black,Model 3,2020.0,Long Range AWD,1.945,Abbotsford,BC,10.0,518.0,Sedan,64868,1085.0,424.0
+2020 Tesla Model 3 Long Range AWD,41991,All-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2020.0,Long Range AWD,1.945,Winnipeg,MB,10.0,518.0,Sedan,55898,1085.0,424.0
+2019 Tesla Model 3 Performance AWD,40800,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2019.0,Performance AWD,2.045,Richmond,BC,10.0,499.0,Sedan,51000,1085.0,424.0
+2021 Tesla Model Y Long Range AWD,46985,All-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2021.0,Long Range AWD,1.945,Calgary,AB,10.0,509.0,SUV/ Crossover,73328,1062.0,1925.0
+2018 Tesla Model 3 Long Range AWD,33988,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2018.0,Long Range AWD,2.045,Calgary,AB,10.0,499.0,Sedan,112912,1085.0,424.0
+2022 Tesla Model 3 Long Range AWD,42888,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2022.0,Long Range AWD,1.9,Toronto,ON,10.0,538.0,Sedan,78000,1085.0,648.0
+2022 Tesla Model Y Performance AWD,51888,All-Wheel Drive,Black,Model Y,2022.0,Performance AWD,2.09,Toronto,ON,10.0,488.0,SUV/ Crossover,73500,1062.0,971.0
+2014 Tesla Model S P85 RWD,29999,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model S,2014.0,P85 RWD,2.655,Oakville,ON,12.0,407.0,Sedan,159578,1085.0,894.0
+2022 Tesla Model 3 Performance AWD,53799,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2022.0,Performance AWD,1.9,Lethbridge,AB,10.0,507.0,Sedan,82806,1085.0,648.0
+2021 Tesla Model 3 Standard Range Plus RWD,29995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Laval,QC,10.0,430.0,Sedan,127905,1085.0,424.0
+2023 Tesla Model 3 RWD,40998,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2023.0,RWD,1.9,Mississauga,ON,10.4,438.0,Sedan,28074,1085.0,648.0
+2022 Tesla Model 3 RWD,32995,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,RWD,1.9,Toronto,ON,10.0,430.0,Sedan,122000,1085.0,648.0
+2022 Tesla Model Y Performance AWD,56600,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2022.0,Performance AWD,2.09,Port Coquitlam,BC,10.0,488.0,SUV/ Crossover,65427,1062.0,971.0
+2023 Tesla Model 3 Long Range AWD,47995,All-Wheel Drive,Black,Model 3,2023.0,Long Range AWD,1.9,Ottawa,ON,11.5,576.0,Sedan,51200,1085.0,648.0
+2020 Tesla Model 3 Standard Range AWD,32771,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2020.0,Standard Range AWD,1.9,Richmond,BC,10.0,354.0,Sedan,61994,1085.0,424.0
+2021 Tesla Model Y Long Range AWD,54995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2021.0,Long Range AWD,1.945,North York,ON,10.0,509.0,SUV/ Crossover,28000,1062.0,1925.0
+2023 Tesla Model 3 RWD,44900,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2023.0,RWD,1.9,Vancouver,BC,10.4,438.0,Sedan,66121,1085.0,648.0
+2020 Tesla Model 3 Standard Range Plus RWD,31850,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2020.0,Standard Range Plus RWD,1.9,Langley,BC,10.0,402.0,Sedan,131479,1085.0,424.0
+2018 Tesla Model X 100D AWD,79800,All-Wheel Drive,White(/Pearl White Multi-Coat),Model X,2018.0,100D AWD,2.655,Gibsons,BC,12.0,475.0,SUV/ Crossover,42605,1046.0,736.0
+2021 Tesla Model 3 Standard Range Plus RWD,37850,Rear-Wheel Drive,Black,Model 3,2021.0,Standard Range Plus RWD,1.9,Langley,BC,10.0,430.0,Sedan,86705,1085.0,424.0
+2020 Tesla Model 3 Standard Range AWD,27995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range AWD,1.9,North York,ON,10.0,354.0,Sedan,98400,1085.0,424.0
+2024 Tesla Model 3 Long Range AWD,68850,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2024.0,Long Range AWD,1.9,Langley,BC,9.4,549.0,Sedan,1500,1085.0,682.0
+2018 Tesla Model 3,34900,unknown,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2018.0,unknown,1.9,Sidney,BC,10.0,430.0,Sedan,103640,1085.0,424.0
+2022 Tesla Model Y Performance AWD,59900,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2022.0,Performance AWD,2.09,Oakville,ON,10.0,488.0,SUV/ Crossover,24555,1063.0,971.0
+2018 Tesla Model 3,36900,unknown,Blue(/Deep Blue Metallic),Model 3,2018.0,unknown,1.9,Sidney,BC,10.0,430.0,Sedan,72177,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,35850,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2021.0,Standard Range Plus RWD,1.9,Langley,BC,10.0,430.0,Sedan,114662,1085.0,424.0
+2022 Tesla Model Y Performance AWD,52950,All-Wheel Drive,Black,Model Y,2022.0,Performance AWD,2.09,Laval,QC,10.0,488.0,SUV/ Crossover,73537,1062.0,971.0
+2022 Tesla Model 3 Long Range AWD,47995,All-Wheel Drive,Black,Model 3,2022.0,Long Range AWD,1.9,Saint-Jean-sur-Richelieu,QC,10.0,538.0,Sedan,39000,1085.0,648.0
+2018 Tesla Model S 75D AWD,45990,All-Wheel Drive,Black,Model S,2018.0,75D AWD,2.255,Sidney,BC,12.0,417.0,Sedan,162965,1085.0,744.0
+2020 Tesla Model X Long Range Plus AWD,79900,All-Wheel Drive,Black,Model X,2020.0,Long Range Plus AWD,2.555,Montreal,QC,12.0,565.0,SUV/ Crossover,56007,1046.0,543.0
+2022 Tesla Model Y Long Range AWD,52995,All-Wheel Drive,Black,Model Y,2022.0,Long Range AWD,1.945,Saint-Eustache,QC,10.0,531.0,SUV/ Crossover,51248,1062.0,971.0
+2022 Tesla Model Y Performance AWD,54988,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2022.0,Performance AWD,2.09,Mississauga,ON,10.0,488.0,SUV/ Crossover,55500,1062.0,971.0
+2020 Tesla Model Y Long Range AWD,49850,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2020.0,Long Range AWD,1.945,Langley,BC,10.0,509.0,SUV/ Crossover,78528,1062.0,1925.0
+2019 Tesla Model X Long Range AWD,87888,All-Wheel Drive,White(/Pearl White Multi-Coat),Model X,2019.0,Long Range AWD,2.445,Vancouver,BC,12.0,475.0,SUV/ Crossover,65233,1046.0,543.0
+2020 Tesla Model Y Long Range AWD,48850,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2020.0,Long Range AWD,1.945,Langley,BC,10.0,509.0,SUV/ Crossover,95939,1062.0,1925.0
+2018 Tesla Model 3 Long Range RWD,34995,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2018.0,Long Range RWD,1.9,Oakville,ON,12.0,499.0,Sedan,100738,1085.0,424.0
+2015 Tesla Model S 85D AWD,27900,All-Wheel Drive,Silver,Model S,2015.0,85D AWD,2.365,Montreal,QC,12.0,435.0,Sedan,301000,1085.0,894.0
+2013 Tesla Model S Performance RWD,30995,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model S,2013.0,Performance RWD,2.655,Toronto,ON,12.0,407.0,Sedan,190162,1085.0,894.0
+2023 Tesla Model Y Long Range AWD,54999,All-Wheel Drive,Black,Model Y,2023.0,Long Range AWD,1.945,Mississauga,ON,11.5,531.0,SUV/ Crossover,35671,1062.0,971.0
+2021 Tesla Model 3 Standard Range Plus RWD,36850,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2021.0,Standard Range Plus RWD,1.9,Langley,BC,10.0,430.0,Sedan,112690,1085.0,424.0
+2020 Tesla Model 3 Long Range AWD,36981,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Long Range AWD,1.945,Regina,SK,10.0,518.0,Sedan,125729,1085.0,424.0
+2020 Tesla Model Y Performance AWD,58888,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2020.0,Performance AWD,1.99,Mission,BC,10.0,507.0,SUV/ Crossover,42552,1062.0,1925.0
+2021 Tesla Model Y Long Range AWD,52888,All-Wheel Drive,Blue(/Deep Blue Metallic),Model Y,2021.0,Long Range AWD,1.945,Vancouver,BC,10.0,509.0,SUV/ Crossover,75019,1062.0,1925.0
+2020 Tesla Model 3 Standard Range AWD,26995,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2020.0,Standard Range AWD,1.9,Toronto,ON,10.0,354.0,Sedan,152000,1085.0,424.0
+2019 Tesla Model 3 Long Range AWD,33995,All-Wheel Drive,Black,Model 3,2019.0,Long Range AWD,2.045,Hilden,NS,10.0,499.0,Sedan,157000,1085.0,424.0
+2020 Tesla Model Y Long Range AWD,46888,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2020.0,Long Range AWD,1.99,Vancouver,BC,10.0,509.0,SUV/ Crossover,125876,1062.0,1925.0
+2018 Tesla Model 3,38332,unknown,Black,Model 3,2018.0,unknown,1.9,Port Coquitlam,BC,10.0,430.0,Sedan,93627,1085.0,424.0
+2024 Tesla Model Y Long Range AWD,69888,All-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2024.0,Long Range AWD,1.99,Vancouver,BC,9.0,499.0,SUV/ Crossover,19019,1062.0,971.0
+2019 Tesla Model 3 Standard Plus RWD,34850,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2019.0,Standard Plus RWD,1.9,Langley,BC,10.0,386.0,Sedan,96002,1085.0,424.0
+2013 Tesla Model S 85 RWD,26800,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model S,2013.0,85 RWD,2.655,North York,ON,12.0,426.0,Sedan,97629,1085.0,894.0
+2021 Tesla Model 3 Standard Range Plus RWD,40850,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2021.0,Standard Range Plus RWD,1.9,Langley,BC,10.0,430.0,Sedan,81459,1085.0,424.0
+2019 Tesla Model 3 Standard Plus RWD,37888,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2019.0,Standard Plus RWD,1.9,Surrey,BC,10.0,386.0,Sedan,53645,1085.0,424.0
+2021 Tesla Model 3 Standard Range Plus RWD,40850,Rear-Wheel Drive,Blue(/Deep Blue Metallic),Model 3,2021.0,Standard Range Plus RWD,1.9,Langley,BC,10.0,430.0,Sedan,82308,1085.0,424.0
+2020 Tesla Model 3 Standard Range Plus RWD,38499,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model 3,2020.0,Standard Range Plus RWD,1.9,Sainte-Marie,QC,10.0,402.0,Sedan,56159,1085.0,424.0
+2023 Tesla Model Y RWD,49988,Rear-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2023.0,RWD,1.945,Saint-Basile-Le-Grand,QC,9.4,418.0,SUV/ Crossover,20131,1064.0,971.0
+2023 Tesla Model Y RWD,51950,Rear-Wheel Drive,Gray(/Dark Grey/Stealth Grey/Charcoal),Model Y,2023.0,RWD,1.945,North Vancouver,BC,9.4,418.0,SUV/ Crossover,28000,1064.0,971.0
+2016 Tesla Model X,69900,unknown,White(/Pearl White Multi-Coat),Model X,2016.0,unknown,2.555,Surrey,BC,12.0,475.0,SUV/ Crossover,76000,1046.0,736.0
+2022 Tesla Model Y Long Range AWD,59850,All-Wheel Drive,Black,Model Y,2022.0,Long Range AWD,1.945,Langley,BC,10.0,531.0,SUV/ Crossover,70939,1062.0,971.0
+2021 Tesla Model Y Long Range AWD,52888,All-Wheel Drive,White(/Pearl White Multi-Coat),Model Y,2021.0,Long Range AWD,1.945,Surrey,BC,10.0,509.0,SUV/ Crossover,95801,1062.0,1925.0
+2020 Tesla Model 3 Standard Range AWD,28995,All-Wheel Drive,Silver,Model 3,2020.0,Standard Range AWD,1.9,Laval,QC,10.0,354.0,Sedan,106714,1085.0,424.0
+2013 Tesla Model S 60 RWD,22888,Rear-Wheel Drive,Red,Model S,2013.0,60 RWD,2.455,Sidney,BC,10.0,335.0,Sedan,186017,1085.0,894.0
+2022 Tesla Model S AWD,85988,All-Wheel Drive,Black,Model S,2022.0,AWD,1.945,Burlington,ON,15.0,652.0,Sedan,48848,1077.0,798.0
+2022 Tesla Model 3 Long Range AWD,59950,All-Wheel Drive,White(/Pearl White Multi-Coat),Model 3,2022.0,Long Range AWD,1.9,North Vancouver,BC,10.0,538.0,Sedan,15000,1085.0,648.0
