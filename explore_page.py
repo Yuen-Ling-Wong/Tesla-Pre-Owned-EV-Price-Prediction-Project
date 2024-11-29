@@ -210,7 +210,7 @@ def show_explore_page():
     fig.update_layout(
     yaxis=dict(
         title=dict(
-            text='normalized moisture')
+            text='Price')
     ),
     boxmode='group' # group together boxes of the different traces for each value of x
     )

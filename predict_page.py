@@ -239,7 +239,7 @@ def show_predict_page():
         if st.button("Calculate Mo. Payment"):
             if tesla_ev_price > 0 and down_payment >= 0 and interest_rate >= 0:
                 monthly_payment = calculate_monthly_payment(tesla_ev_price, down_payment, interest_rate, loan_term)
-                st.subheader(f"Est. monthly payment: ${monthly_payment:,.2f}/mo est.")
+                st.subheader(f"Est. monthly payment: ${monthly_payment:,.2f}.")
             else:
                 st.error("Please enter valid values for all inputs.")
         
