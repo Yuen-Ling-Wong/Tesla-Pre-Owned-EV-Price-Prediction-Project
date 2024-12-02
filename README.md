@@ -5,6 +5,7 @@
 This project aims at analyzing the latest data regarding Tesla Pre-owned Electric Vehicle(EV) Prices in Canada and building machine learnning models that can predict prices of a pre-owned Tesla EV.
 
 Data Obtained from : CarGurus, a Canada's Automotive Marketplace, through using web scraping.
+Project Creator: Flora Yuen Ling Wong
 
 ## Areas of Concerns
 1. Current Trends of Tesla Pre-owned EV Markets in Canada
